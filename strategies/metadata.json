@@ -1,18 +1,18 @@
 {
   "hyperlend_hwhype_999": {
-    "name": "Supply HYPE to HyperLend",
+    "name": "Supply HYPE to HyperLend hHYPE",
     "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
   },
   "hypurrfi_hywhype_999": {
-    "name": "Supply HYPE to HypurrFi",
+    "name": "Supply HYPE to HypurrFi hyHYPE",
     "icon": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg"
   },
   "hyperliquid_whype_999": {
     "name": "Unallocated HYPE",
     "icon": "https://pbs.twimg.com/profile_images/1646991609416806408/vKLEZxhh_400x400.png"
   },
-  "felix_felix fehype_999": {
-    "name": "Supply HYPE to Felix",
+  "felix_fehype_999": {
+    "name": "Supply HYPE to Felix feHYPE",
     "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
   }
 }
