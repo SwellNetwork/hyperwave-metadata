@@ -1,0 +1,14 @@
+{
+  "hyperlend_hwhype_999": {
+    "name": "Supply HYPE to HyperLend",
+    "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
+  },
+  "hypurrfi_hywhype_999": {
+    "name": "Supply HYPE to HypurrFi",
+    "icon": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg"
+  },
+  "hyperliquid_whype_999": {
+    "name": "Unallocated HYPE",
+    "icon": "https://pbs.twimg.com/profile_images/1646991609416806408/vKLEZxhh_400x400.png"
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "hwhlp_999:": {
+    "id": "hwhlp_999:",
+    "chainId": 999,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
+    "category": "Holding",
+    "asset": "hwHLP",
+    "link": "https://app.hyperwavefi.xyz/assets/hwhlp",
+    "multiplier": 1
+  },
+  "kittenswap_hwhlp_usdt0_999:": {
+    "id": "kittenswap_hwhlp_usdt0_999:",
+    "chainId": 999,
+    "name": "Kittenswap",
+    "imageUrl": "https://kittenswap.finance/logo-mark.svg",
+    "category": "DEX",
+    "asset": "hwHLP/USDT0",
+    "link": "https://app.kittenswap.finance/liquidity/manage/concentrated?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
+    "multiplier": 2
+  },
+  "curve_usde_usdt0_hwhlp_999:LP": {
+    "id": "curve_usde_usdt0_hwhlp_999:LP",
+    "chainId": 999,
+    "name": "Curve",
+    "imageUrl": "https://www.curve.finance/_next/static/media/curve-logo.f83f84d4.png",
+    "category": "DEX",
+    "asset": "USDT0/USDE/hwHLP",
+    "link": "https://www.curve.finance/dex/hyperliquid/pools/factory-stable-ng-21/deposit",
+    "multiplier": 2
+  },
+  "curve_usdxl_usdhl_hwhlp_999:LP": {
+    "id": "curve_usdxl_usdhl_hwhlp_999:LP",
+    "chainId": 999,
+    "name": "Curve",
+    "imageUrl": "https://www.curve.finance/_next/static/media/curve-logo.f83f84d4.png",
+    "category": "DEX",
+    "asset": "USDhl/USDXL/hwHLP",
+    "link": "https://www.curve.finance/dex/hyperliquid/pools/factory-stable-ng-23/deposit",
+    "multiplier": 2
+  },
+  "curve_hwhlp_usdhl_999:LP": {
+    "id": "curve_hwhlp_usdhl_999:LP",
+    "chainId": 999,
+    "name": "Curve",
+    "imageUrl": "https://www.curve.finance/_next/static/media/curve-logo.f83f84d4.png",
+    "category": "DEX",
+    "asset": "hwHLP/USDhl",
+    "link": "https://www.curve.finance/dex/hyperliquid/pools/factory-stable-ng-22/deposit",
+    "multiplier": 2
+  },
+  "curve_hwhlp_usdhl_999:GAUGE": {
+    "id": "curve_hwhlp_usdhl_999:GAUGE",
+    "chainId": 999,
+    "name": "Curve",
+    "imageUrl": "https://www.curve.finance/_next/static/media/curve-logo.f83f84d4.png",
+    "category": "Staking",
+    "asset": "hwHLP/USDhl",
+    "link": "https://www.curve.finance/dex/hyperliquid/pools/factory-stable-ng-22/deposit",
+    "multiplier": 2
+  },
+  "hypurr_hwhlp_usdt0_999:Supply": {
+    "id": "hypurr_hwhlp_usdt0_999:Supply",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Supply USDT0",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+    "multiplier": 3
+  },
+  "hypurr_hwhlp_usdt0_999:Borrow": {
+    "id": "hypurr_hwhlp_usdt0_999:Borrow",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Borrow USDT0 against hwHLP",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+    "multiplier": 3
+  },
+  "hypurr_hwhlp_usdt0_999:Collateral": {
+    "id": "hypurr_hwhlp_usdt0_999:Collateral",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Deposit hwHLP as Collateral",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+    "multiplier": 1
+  },
+  "hypurr_hwhlp_usdhl_999:Supply": {
+    "id": "hypurr_hwhlp_usdhl_999:Supply",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Supply USDhl",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
+    "multiplier": 3
+  },
+  "hypurr_hwhlp_usdhl_999:Borrow": {
+    "id": "hypurr_hwhlp_usdhl_999:Borrow",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Borrow USDhl against hwHLP",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
+    "multiplier": 3
+  },
+  "hypurr_hwhlp_usdhl_999:Collateral": {
+    "id": "hypurr_hwhlp_usdhl_999:Collateral",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Deposit hwHLP as Collateral",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
+    "multiplier": 1
+  },
+  "felix_hwhlp_usdhl_999:Collateral": {
+    "id": "felix_hwhlp_usdhl_999:Collateral",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Deposit hwHLP as Collateral",
+    "link": "https://www.usefelix.xyz/vanilla-borrow",
+    "multiplier": 1
+  },
+  "felix_hwhlp_usdhl_999:Borrow": {
+    "id": "felix_hwhlp_usdhl_999:Borrow",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Borrow USDhl against hwHLP",
+    "link": "https://www.usefelix.xyz/vanilla-borrow",
+    "multiplier": 2.5
+  },
+  "felix_hwhlp_usdhl_999:Supply": {
+    "id": "felix_hwhlp_usdhl_999:Supply",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Supply USDhl",
+    "link": "https://www.usefelix.xyz/vanilla-earn",
+    "multiplier": 0
+  },
+  "timeswap_hwhlp_usdt0_999:Liquidity": {
+    "id": "timeswap_hwhlp_usdt0_999:Liquidity",
+    "chainId": 999,
+    "name": "Timeswap",
+    "imageUrl": "https://app.timeswap.io/_next/static/media/LogoPure.51f4adbb.svg",
+    "category": "DEX",
+    "asset": "hwHLP/USDT0 Liquidity",
+    "link": "https://app.timeswap.io/liquidity/5a5e0e3f-68d0-4e66-89d5-ecf40af260a2",
+    "multiplier": 2
+  },
+  "timeswap_hwhlp_usdt0_999:Collateral": {
+    "id": "timeswap_hwhlp_usdt0_999:Collateral",
+    "chainId": 999,
+    "name": "Timeswap",
+    "imageUrl": "https://app.timeswap.io/_next/static/media/LogoPure.51f4adbb.svg",
+    "category": "Lending",
+    "asset": "hwHLP as Collateral",
+    "link": "https://app.timeswap.io/borrow/5a5e0e3f-68d0-4e66-89d5-ecf40af260a2",
+    "multiplier": 2
+  },
+  "timeswap_hwhlp_usdt0_999:Borrow": {
+    "id": "timeswap_hwhlp_usdt0_999:Borrow",
+    "chainId": 999,
+    "name": "Timeswap",
+    "imageUrl": "https://app.timeswap.io/_next/static/media/LogoPure.51f4adbb.svg",
+    "category": "Lending",
+    "asset": "Borrow USDT0 against hwHLP",
+    "link": "https://app.timeswap.io/borrow/5a5e0e3f-68d0-4e66-89d5-ecf40af260a2",
+    "multiplier": 2
+  },
+  "timeswap_hwhlp_usdt0_999:Supply": {
+    "id": "timeswap_hwhlp_usdt0_999:Supply",
+    "chainId": 999,
+    "name": "Timeswap",
+    "imageUrl": "https://app.timeswap.io/_next/static/media/LogoPure.51f4adbb.svg",
+    "category": "Lending",
+    "asset": "Supply USDT0",
+    "link": "https://app.timeswap.io/lend/5a5e0e3f-68d0-4e66-89d5-ecf40af260a2",
+    "multiplier": 2
+  },
+  "hwhlp_1:": {
+    "id": "hwhlp_1:",
+    "chainId": 1,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.svg",
+    "category": "Holding",
+    "asset": "hwHLP Mainnet",
+    "link": "https://app.hyperwavefi.xyz/assets/hwhlp",
+    "multiplier": 1
+  },
+  "felix_vault_usdhl_999:": {
+    "id": "felix_vault_usdhl_999:",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Supply USDhl to Frontier Vault",
+    "link": "https://www.usefelix.xyz/vanilla-earn",
+    "multiplier": 2.5
+  },
+  "bunni_hwhlp_usdt_1:LP": {
+    "id": "bunni_hwhlp_usdt_1:LP",
+    "chainId": 1,
+    "name": "Bunni",
+    "imageUrl": "https://bunni.xyz/assets/img/bunni-v2-logo.svg",
+    "category": "DEX",
+    "asset": "hwHLP/USDT",
+    "link": "https://bunni.xyz/explore/pools/mainnet/0x896895226e2cde763d53496363ef5af1d6d60f0df7960d658c1d0c6251db6c66?chain=mainnet",
+    "multiplier": 2
+  },
+  "bunni_hwhlp_usdt_1:GAUGE": {
+    "id": "bunni_hwhlp_usdt_1:GAUGE",
+    "chainId": 1,
+    "name": "Bunni",
+    "imageUrl": "https://bunni.xyz/assets/img/bunni-v2-logo.svg",
+    "category": "Staking",
+    "asset": "hwHLP/USDT",
+    "link": "https://bunni.xyz/explore/pools/mainnet/0x896895226e2cde763d53496363ef5af1d6d60f0df7960d658c1d0c6251db6c66?chain=mainnet",
+    "multiplier": 2
+  },
+  "pendlelp_hwhlp_20260925_1:LP": {
+    "id": "pendlelp_hwhlp_20260925_1:LP",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "LP on Pendle 20250925",
+    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20260925_1:EQB": {
+    "id": "pendlelp_hwhlp_20260925_1:EQB",
+    "chainId": 1,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria 20250925",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20260925_1:PNP": {
+    "id": "pendlelp_hwhlp_20260925_1:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie 20250925",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "multiplier": 4
+  },
+  "pendleyt_hwhlp_20260925_1:": {
+    "id": "pendleyt_hwhlp_20260925_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHLP 20250925",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlept_hwhlp_20260925_1:": {
+    "id": "pendlept_hwhlp_20260925_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHLP 20250925",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "multiplier": 0
+  },
+  "pendlesy_hwhlp_1:": {
+    "id": "pendlesy_hwhlp_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold SY-hwHLP",
+    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "multiplier": 1
+  },
+  "pendlelp_hwhlp_20261218_999:LP": {
+    "id": "pendlelp_hwhlp_20261218_999:LP",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "LP on Pendle 20251218",
+    "link": "https://app.pendle.finance/trade/pools/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1/zap/in?chain=hyperevm",
+    "multiplier": 4
+  },
+  "pendleyt_hwhlp_20261218_999:": {
+    "id": "pendleyt_hwhlp_20261218_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHLP 20251218",
+    "link": "https://app.pendle.finance/trade/markets/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1/swap?view=yt&chain=hyperevm",
+    "multiplier": 4
+  },
+  "pendlept_hwhlp_20261218_999:": {
+    "id": "pendlept_hwhlp_20261218_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHLP 20251218",
+    "link": "https://app.pendle.finance/trade/markets/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1/swap?view=pt&chain=hyperevm",
+    "multiplier": 0
+  },
+  "pendlesy_hwhlp_999:": {
+    "id": "pendlesy_hwhlp_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold SY-hwHLP",
+    "link": "https://app.pendle.finance/trade/pools/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1/zap/sy-converter/unwrap?chain=hyperevm",
+    "multiplier": 1
+  },
+  "bal_usdt0_hwhlp_999:LP": {
+    "id": "bal_usdt0_hwhlp_999:LP",
+    "chainId": 999,
+    "name": "Balancer",
+    "imageUrl": "https://raw.githubusercontent.com/balancer/brand-assets/refs/heads/main/logo/no-container/logo-balancer-white.svg",
+    "category": "DEX",
+    "asset": "USDT0/hwHLP",
+    "link": "https://balancer.fi/pools/hyperevm/v3/0x768e4f8219095d714bc7dcfd60a5ece67d32faf9",
+    "multiplier": 3.5
+  },
+  "hwhype_999:": {
+    "id": "hwhype_999:",
+    "chainId": 999,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x4de03ca1f02591b717495cfa19913ad56a2f5858.svg",
+    "category": "Holding",
+    "asset": "hwHYPE",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
+  },
+  "euler_col_hwhlp_1:": {
+    "id": "euler_col_hwhlp_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Deposit hwHLP as Collateral",
+    "link": "https://app.euler.finance/borrow?liquidity=&collateralAsset=hwHLP&network=ethereum",
+    "multiplier": 1
+  },
+  "euler_col_pthwhlp_1:": {
+    "id": "euler_col_pthwhlp_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Deposit PT-hwHLP as Collateral",
+    "link": "https://app.euler.finance/borrow?liquidity=&collateralAsset=PT-hwHLP-25SEP2025&network=ethereum",
+    "multiplier": 0
+  },
+  "euler_frontier_usdc_Borrow_1:": {
+    "id": "euler_frontier_usdc_Borrow_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Borrow USDC against hwHLP or PT-hwHLP",
+    "link": "https://app.euler.finance/borrow?market=frontier-hyperwave&asset=USDC&collateralAsset=PT-hwHLP-25SEP2025%2ChwHLP&network=ethereum",
+    "multiplier": 3
+  },
+  "euler_frontier_usdc_Supply_1:": {
+    "id": "euler_frontier_usdc_Supply_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Supply USDC in Frontier Market",
+    "link": "https://app.euler.finance/vault/0x3C75C170671acb394804DfAf63e4F9891C121625?network=ethereum (edited)",
+    "multiplier": 3
+  }
+}
+
