@@ -299,6 +299,16 @@
     "link": "https://app.pendle.finance/trade/pools/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1/zap/in?chain=hyperevm",
     "multiplier": 4
   },
+  "pendlelp_hwhlp_20261218_999:EQB": {
+    "id": "pendlelp_hwhlp_20261218_999:EQB",
+    "chainId": 999,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria 20251218",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
   "pendleyt_hwhlp_20261218_999:": {
     "id": "pendleyt_hwhlp_20261218_999:",
     "chainId": 999,
@@ -450,7 +460,6 @@
     "link": "https://app.hyperstable.xyz/",
     "multiplier": 0
   },
-
   "hystable_hwhlp_ush_999:Collateral": {
     "id": "hystable_hwhlp_ush_999:Collateral",
     "chainId": 999,
