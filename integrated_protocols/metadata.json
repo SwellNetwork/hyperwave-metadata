@@ -309,6 +309,16 @@
     "link": "https://equilibria.fi/stake",
     "multiplier": 4
   },
+  "pendlelp_hwhlp_20261218_999:PNP": {
+    "id": "pendlelp_hwhlp_20261218_999:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie 20250925",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1",
+    "multiplier": 4
+  },
   "pendleyt_hwhlp_20261218_999:": {
     "id": "pendleyt_hwhlp_20261218_999:",
     "chainId": 999,
