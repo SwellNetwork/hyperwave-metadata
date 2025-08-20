@@ -309,6 +309,16 @@
     "link": "https://equilibria.fi/stake",
     "multiplier": 4
   },
+  "pendlelp_hwhlp_20261218_999:PNP": {
+    "id": "pendlelp_hwhlp_20261218_999:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie 20251218",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1",
+    "multiplier": 4
+  },
   "pendleyt_hwhlp_20261218_999:": {
     "id": "pendleyt_hwhlp_20261218_999:",
     "chainId": 999,
@@ -396,7 +406,7 @@
     "imageUrl": "https://app.euler.finance/logo.svg",
     "category": "Lending",
     "asset": "Supply USDC in Frontier Market",
-    "link": "https://app.euler.finance/vault/0x3C75C170671acb394804DfAf63e4F9891C121625?network=ethereum (edited)",
+    "link": "https://app.euler.finance/vault/0x3C75C170671acb394804DfAf63e4F9891C121625?network=ethereum",
     "multiplier": 3
   },
   "hystable_hwhlp_usde_999:Collateral": {
@@ -519,6 +529,86 @@
     "asset": "Supply USH to HyperStable Earn",
     "link": "https://app.hyperstable.xyz/earn",
     "multiplier": 2.5
+  },
+  "pendlelp_hwhype_20261218_999:LP": {
+    "id": "pendlelp_hwhype_20261218_999:LP",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "LP on Pendle 20251218",
+    "link": "https://app.pendle.finance/trade/pools/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61/zap/in?chain=hyperevm",
+    "multiplier": 4
+  },
+  "pendlelp_hwhype_20261218_999:EQB": {
+    "id": "pendlelp_hwhype_20261218_999:EQB",
+    "chainId": 999,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria 20251218",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhype_20261218_999:PNP": {
+    "id": "pendlelp_hwhype_20261218_999:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie 20251218",
+    "link": "https://www.pendle.magpiexyz.io/stake/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61",
+    "multiplier": 4
+  },
+  "pendleyt_hwhype_20261218_999:": {
+    "id": "pendleyt_hwhype_20261218_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHYPE 20251218",
+    "link": "https://app.pendle.finance/trade/markets/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61/swap?view=yt&chain=hyperevm",
+    "multiplier": 4
+  },
+  "pendlept_hwhype_20261218_999:": {
+    "id": "pendlept_hwhype_20261218_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHYPE 20251218",
+    "link": "https://app.pendle.finance/trade/markets/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61/swap?view=pt&chain=hyperevm",
+    "multiplier": 0
+  },
+  "pendlesy_hwhype_999:": {
+    "id": "pendlesy_hwhype_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
+    "category": "Yield",
+    "asset": "Hold SY-hwHYPE",
+    "link": "https://app.pendle.finance/trade/pools/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61/zap/sy-converter/unwrap?chain=hyperevm",
+    "multiplier": 1
+  },
+  "euler_frontier_usdt_Borrow_1:": {
+    "id": "euler_frontier_usdt_Borrow_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Borrow USDT against hwHLP or PT-hwHLP",
+    "link": "https://app.euler.finance/borrow?market=frontier-hyperwave&asset=USDT&collateralAsset=PT-hwHLP-25SEP2025%2ChwHLP&network=ethereum",
+    "multiplier": 3
+  },
+  "euler_frontier_usdt_Supply_1:": {
+    "id": "euler_frontier_usdt_Supply_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Supply USDT in Frontier Market",
+    "link": "https://app.euler.finance/vault/0x22cC732cbca457F6811295bCE75B01822544bA52?network=ethereum",
+    "multiplier": 3
   }
 }
 
