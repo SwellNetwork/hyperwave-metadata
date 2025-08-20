@@ -552,7 +552,7 @@
   },
   "pendlelp_hwhype_20261218_999:PNP": {
     "id": "pendlelp_hwhype_20261218_999:PNP",
-    "chainId": 1,
+    "chainId": 999,
     "name": "Penpie",
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
