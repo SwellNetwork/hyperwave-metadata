@@ -406,7 +406,7 @@
     "imageUrl": "https://app.euler.finance/logo.svg",
     "category": "Lending",
     "asset": "Supply USDC in Frontier Market",
-    "link": "https://app.euler.finance/vault/0x3C75C170671acb394804DfAf63e4F9891C121625?network=ethereum (edited)",
+    "link": "https://app.euler.finance/vault/0x3C75C170671acb394804DfAf63e4F9891C121625?network=ethereum",
     "multiplier": 3
   },
   "hystable_hwhlp_usde_999:Collateral": {
@@ -589,6 +589,26 @@
     "asset": "Hold SY-hwHYPE",
     "link": "https://app.pendle.finance/trade/pools/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61/zap/sy-converter/unwrap?chain=hyperevm",
     "multiplier": 1
+  },
+  "euler_frontier_usdt_Borrow_1:": {
+    "id": "euler_frontier_usdt_Borrow_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Borrow USDT against hwHLP or PT-hwHLP",
+    "link": "https://app.euler.finance/borrow?market=frontier-hyperwave&asset=USDT&collateralAsset=PT-hwHLP-25SEP2025%2ChwHLP&network=ethereum",
+    "multiplier": 3
+  },
+  "euler_frontier_usdt_Supply_1:": {
+    "id": "euler_frontier_usdt_Supply_1:",
+    "chainId": 1,
+    "name": "Euler",
+    "imageUrl": "https://app.euler.finance/logo.svg",
+    "category": "Lending",
+    "asset": "Supply USDT in Frontier Market",
+    "link": "https://app.euler.finance/vault/0x22cC732cbca457F6811295bCE75B01822544bA52?network=ethereum",
+    "multiplier": 3
   }
 }
 
