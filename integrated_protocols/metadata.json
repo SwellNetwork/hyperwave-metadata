@@ -520,8 +520,18 @@
     "link": "https://app.hyperstable.xyz/earn",
     "multiplier": 2.5
   },
-  "hystable_vault_ush_999:": {
-    "id": "hystable_vault_ush_999:",
+  "hystable_vault_ush_999:LP": {
+    "id": "hystable_vault_ush_999:LP",
+    "chainId": 999,
+    "name": "HyperStable",
+    "imageUrl": "https://hyperstable.gitbook.io/docs/~gitbook/image?url=https%3A%2F%2F1366893697-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FqLgWrVyNv9R3Hb4tSFHP%252Fuploads%252FwK1zAO95DMWAFojXWExH%252FUSH.png%3Falt%3Dmedia%26token%3Ddb5677a8-7423-4ca4-9779-eb57a46fb8c2&width=768&dpr=2&quality=100&sign=683a88aa&sv=2",
+    "category": "Lending",
+    "asset": "Supply USH to HyperStable Earn",
+    "link": "https://app.hyperstable.xyz/earn",
+    "multiplier": 2.5
+  },
+  "hystable_vault_ush_999:GAUGE": {
+    "id": "hystable_vault_ush_999:GAUGE",
     "chainId": 999,
     "name": "HyperStable",
     "imageUrl": "https://hyperstable.gitbook.io/docs/~gitbook/image?url=https%3A%2F%2F1366893697-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FqLgWrVyNv9R3Hb4tSFHP%252Fuploads%252FwK1zAO95DMWAFojXWExH%252FUSH.png%3Falt%3Dmedia%26token%3Ddb5677a8-7423-4ca4-9779-eb57a46fb8c2&width=768&dpr=2&quality=100&sign=683a88aa&sv=2",
