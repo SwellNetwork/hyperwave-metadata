@@ -620,6 +620,36 @@
     "link": "https://app.euler.finance/vault/0x22cC732cbca457F6811295bCE75B01822544bA52?network=ethereum",
     "multiplier": 3
   },
+  "hypurr_pthwhlp_usdt0_999:Supply": {
+    "id": "hypurr_pthwhlp_usdt0_999:Supply",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Supply USDT0",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
+    "multiplier": 3
+  },
+  "hypurr_pthwhlp_usdt0_999:Borrow": {
+    "id": "hypurr_pthwhlp_usdt0_999:Borrow",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Borrow USDT0 against PT-hwHLP",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
+    "multiplier": 3
+  },
+  "hypurr_pthwhlp_usdt0_999:Collateral": {
+    "id": "hypurr_pthwhlp_usdt0_999:Collateral",
+    "chainId": 999,
+    "name": "HypurrFi",
+    "imageUrl": "https://app.hypurr.fi/_next/static/images/hypurr-paw-bd903958b2ed2c09420255bebed460ad.svg",
+    "category": "Lending",
+    "asset": "Deposit PT-hwHLP as Collateral",
+    "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
+    "multiplier": 0
+  },
   "hydrive_col_hwhlp_999:": {
     "id": "hydrive_col_hwhlp_999:",
     "chainId": 999,
