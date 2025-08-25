@@ -649,6 +649,16 @@
     "asset": "Supply USDT0 in Pioneer Market",
     "link": "https://app.hyperdrive.fi/earn/usdt0-pioneer-market",
     "multiplier": 2.5
+  },
+  "projectx_hwhlp_usdt0_500_999:": {
+    "id": "projectx_hwhlp_usdt0_500_999:",
+    "chainId": 999,
+    "name": "ProjectX",
+    "imageUrl": "https://i.ibb.co/Fj67M4v/image.png",
+    "category": "DEX",
+    "asset": "hwHLP/USDT0 0.05%",
+    "link": "https://www.prjx.com/deposit?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=500&newPool=true",
+    "multiplier": 2.5
   }
 }
 
