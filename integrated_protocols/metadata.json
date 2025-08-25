@@ -235,7 +235,7 @@
     "name": "Pendle",
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
     "category": "Yield",
-    "asset": "LP on Pendle 20250925",
+    "asset": "LP on Pendle hwhLP 20250925",
     "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
     "multiplier": 4
   },
@@ -245,7 +245,7 @@
     "name": "Equilibria",
     "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
     "category": "Yield",
-    "asset": "LP on Equilibria 20250925",
+    "asset": "LP on Equilibria hwhLP 20250925",
     "link": "https://equilibria.fi/stake",
     "multiplier": 4
   },
@@ -255,7 +255,7 @@
     "name": "Penpie",
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
-    "asset": "LP on Penpie 20250925",
+    "asset": "LP on Penpie hwhLP 20250925",
     "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
     "multiplier": 4
   },
@@ -295,7 +295,7 @@
     "name": "Pendle",
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
     "category": "Yield",
-    "asset": "LP on Pendle 20251218",
+    "asset": "LP on Pendle hwHLP 20251218",
     "link": "https://app.pendle.finance/trade/pools/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1/zap/in?chain=hyperevm",
     "multiplier": 4
   },
@@ -305,7 +305,7 @@
     "name": "Equilibria",
     "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
     "category": "Yield",
-    "asset": "LP on Equilibria 20251218",
+    "asset": "LP on Equilibria hwHLP 20251218",
     "link": "https://equilibria.fi/stake",
     "multiplier": 4
   },
@@ -315,7 +315,7 @@
     "name": "Penpie",
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
-    "asset": "LP on Penpie 20251218",
+    "asset": "LP on Penpie hwHLP 20251218",
     "link": "https://www.pendle.magpiexyz.io/stake/0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1",
     "multiplier": 4
   },
@@ -520,13 +520,23 @@
     "link": "https://app.hyperstable.xyz/earn",
     "multiplier": 2.5
   },
-  "hystable_vault_ush_999:": {
-    "id": "hystable_vault_ush_999:",
+  "hystable_vault_ush_999:LP": {
+    "id": "hystable_vault_ush_999:LP",
     "chainId": 999,
     "name": "HyperStable",
     "imageUrl": "https://hyperstable.gitbook.io/docs/~gitbook/image?url=https%3A%2F%2F1366893697-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FqLgWrVyNv9R3Hb4tSFHP%252Fuploads%252FwK1zAO95DMWAFojXWExH%252FUSH.png%3Falt%3Dmedia%26token%3Ddb5677a8-7423-4ca4-9779-eb57a46fb8c2&width=768&dpr=2&quality=100&sign=683a88aa&sv=2",
     "category": "Lending",
     "asset": "Supply USH to HyperStable Earn",
+    "link": "https://app.hyperstable.xyz/earn",
+    "multiplier": 2.5
+  },
+  "hystable_vault_ush_999:GAUGE": {
+    "id": "hystable_vault_ush_999:GAUGE",
+    "chainId": 999,
+    "name": "HyperStable",
+    "imageUrl": "https://hyperstable.gitbook.io/docs/~gitbook/image?url=https%3A%2F%2F1366893697-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FqLgWrVyNv9R3Hb4tSFHP%252Fuploads%252FwK1zAO95DMWAFojXWExH%252FUSH.png%3Falt%3Dmedia%26token%3Ddb5677a8-7423-4ca4-9779-eb57a46fb8c2&width=768&dpr=2&quality=100&sign=683a88aa&sv=2",
+    "category": "Lending",
+    "asset": "Stake USH Earn position",
     "link": "https://app.hyperstable.xyz/earn",
     "multiplier": 2.5
   },
@@ -536,7 +546,7 @@
     "name": "Pendle",
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png",
     "category": "Yield",
-    "asset": "LP on Pendle 20251218",
+    "asset": "LP on Pendle hwHYPE 20251218",
     "link": "https://app.pendle.finance/trade/pools/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61/zap/in?chain=hyperevm",
     "multiplier": 4
   },
@@ -546,7 +556,7 @@
     "name": "Equilibria",
     "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
     "category": "Yield",
-    "asset": "LP on Equilibria 20251218",
+    "asset": "LP on Equilibria hwHYPE 20251218",
     "link": "https://equilibria.fi/stake",
     "multiplier": 4
   },
@@ -556,7 +566,7 @@
     "name": "Penpie",
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
-    "asset": "LP on Penpie 20251218",
+    "asset": "LP on Penpie hwHYPE 20251218",
     "link": "https://www.pendle.magpiexyz.io/stake/0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61",
     "multiplier": 4
   },
@@ -639,6 +649,46 @@
     "asset": "Deposit PT-hwHLP as Collateral",
     "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
     "multiplier": 0
+  },
+  "hydrive_col_hwhlp_999:": {
+    "id": "hydrive_col_hwhlp_999:",
+    "chainId": 999,
+    "name": "HyperDrive",
+    "imageUrl": "https://i.ibb.co/5X5VM7Z3/image.png",
+    "category": "Lending",
+    "asset": "Deposit hwHLP as Collateral",
+    "link": "https://app.hyperdrive.fi/borrow/usdt0-pioneer",
+    "multiplier": 1
+  },
+  "hydrive_pioneer_usdt0_999:Borrow": {
+    "id": "hydrive_pioneer_usdt0_999:Borrow",
+    "chainId": 999,
+    "name": "HyperDrive",
+    "imageUrl": "https://i.ibb.co/5X5VM7Z3/image.png",
+    "category": "Lending",
+    "asset": "Borrow USDT0 against hwHLP",
+    "link": "https://app.hyperdrive.fi/borrow/usdt0-pioneer",
+    "multiplier": 2.5
+  },
+  "hydrive_pioneer_usdt0_999:Supply": {
+    "id": "hydrive_pioneer_usdt0_999:Supply",
+    "chainId": 999,
+    "name": "HyperDrive",
+    "imageUrl": "https://i.ibb.co/5X5VM7Z3/image.png",
+    "category": "Lending",
+    "asset": "Supply USDT0 in Pioneer Market",
+    "link": "https://app.hyperdrive.fi/earn/usdt0-pioneer-market",
+    "multiplier": 2.5
+  },
+  "projectx_hwhlp_usdt0_500_999:": {
+    "id": "projectx_hwhlp_usdt0_500_999:",
+    "chainId": 999,
+    "name": "ProjectX",
+    "imageUrl": "https://i.ibb.co/Fj67M4v/image.png",
+    "category": "DEX",
+    "asset": "hwHLP/USDT0 0.05%",
+    "link": "https://www.prjx.com/deposit?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=500&newPool=true",
+    "multiplier": 2.5
   }
 }
 
