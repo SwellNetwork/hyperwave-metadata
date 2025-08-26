@@ -439,7 +439,46 @@
     "link": "https://app.hyperstable.xyz/",
     "multiplier": 0
   },
-
+  "felix_hwhlp_usdt0_999:Collateral": {
+    "id": "felix_hwhlp_usdt0_999:Collateral",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Deposit hwHLP as Collateral",
+    "link": "https://www.usefelix.xyz/vanilla-borrow",
+    "multiplier": 1
+  },
+  "felix_hwhlp_usdt0_999:Borrow": {
+    "id": "felix_hwhlp_usdt0_999:Borrow",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Borrow USDT0 against hwHLP",
+    "link": "https://www.usefelix.xyz/vanilla-borrow",
+    "multiplier": 2.5
+  },
+  "felix_hwhlp_usdt0_999:Supply": {
+    "id": "felix_hwhlp_usdt0_999:Supply",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Supply USDT0",
+    "link": "https://www.usefelix.xyz/vanilla-earn",
+    "multiplier": 0
+  },
+  "felix_vault_usdt0_999:": {
+    "id": "felix_vault_usdt0_999:",
+    "chainId": 999,
+    "name": "Felix",
+    "imageUrl": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "category": "Lending",
+    "asset": "Supply USDT0 to Frontier Vault",
+    "link": "https://www.usefelix.xyz/vanilla-earn",
+    "multiplier": 2.5
+  },
   "hystable_hwhlp_usdt0_999:Collateral": {
     "id": "hystable_hwhlp_usdt0_999:Collateral",
     "chainId": 999,
