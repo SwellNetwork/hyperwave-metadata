@@ -16,7 +16,7 @@
     "imageUrl": "https://kittenswap.finance/logo-mark.svg",
     "category": "DEX",
     "asset": "hwHLP/USDT0",
-    "link": "https://app.kittenswap.finance/liquidity/manage/concentrated?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
+    "link": "https://legacy.kittenswap.finance/liquidity/manage/concentrated?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
     "multiplier": 2
   },
   "curve_usde_usdt0_hwhlp_999:LP": {
