@@ -14,5 +14,9 @@
   "felix_fehype_999": {
     "name": "Supply HYPE to Felix feHYPE",
     "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+  },
+  "pendlept_pt-khype_999": {
+    "name": "Buy Pendle PT-kHYPE",
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-856aeefe.png"
   }
 }
