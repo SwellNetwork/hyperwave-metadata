@@ -1,0 +1,290 @@
+{
+    "baldbros": {
+      "metadata_id": "baldbros",
+      "full_name": "Bald Bros",
+      "short_name": "Bros",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BaldBros.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/baldbrothers_"
+        }
+      ]
+    },
+    "benmo": {
+      "metadata_id": "benmo",
+      "full_name": "Benmo",
+      "short_name": "Benmo",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/benmo.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Super4DeFi"
+        }
+      ]
+    },
+    "catbal": {
+      "metadata_id": "catbal",
+      "full_name": "CatBal",
+      "short_name": "CatBal",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/CatBal.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/CatCabal_hl"
+        }
+      ]
+    },
+    "defiwhale": {
+      "metadata_id": "defiwhale",
+      "full_name": "DeFi Whale",
+      "short_name": "DeFi Whale",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/DefiWhale.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/DefiWhaleX"
+        }
+      ]
+    },
+    "hl_builder": {
+      "metadata_id": "hl_builder",
+      "full_name": "Hyperbuilder",
+      "short_name": "HBuilder",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Hyperbuilder.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/hyperbuilder_hl"
+        }
+      ]
+    },
+    "hl_indonesia": {
+      "metadata_id": "hl_indonesia",
+      "full_name": "Hyperliquid Indonesia",
+      "short_name": "Indonesia",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidIND.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperliquid_IDN"
+        },
+        {
+          "link_type": "telegram",
+          "link": "https://t.me/hyperliquidindonesia01"
+        }
+      ]
+    },
+    "hl_korea": {
+      "metadata_id": "hl_korea",
+      "full_name": "Hyperliquid Korea",
+      "short_name": "Korea",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidKR.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperliquid_KR"
+        },
+        {
+          "link_type": "telegram",
+          "link": "https://t.me/Hyperliquid_KR"
+        }
+      ]
+    },
+    "hl_names": {
+      "metadata_id": "hl_names",
+      "full_name": "HL Names",
+      "short_name": "HL Names",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HLNames.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/hlnames"
+        }
+      ]
+    },
+    "hl_philippines": {
+      "metadata_id": "hl_philippines",
+      "full_name": "HL Philippines",
+      "short_name": "HL Phil",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperLiquidPH.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/HyperliquidPH"
+        }
+      ]
+    },
+    "hl_russia": {
+      "metadata_id": "hl_russia",
+      "full_name": "Hyperliquid Russia",
+      "short_name": "Russia",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidRUS.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/chip1cr"
+        },
+        {
+          "link_type": "telegram",
+          "link": "https://t.me/hyperliquid_ru"
+        }
+      ]
+    },
+    "hl_spain": {
+      "metadata_id": "hl_spain",
+      "full_name": "Hyperliquid Spain",
+      "short_name": "HL Spain",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperLiquidos.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/hyperliquidos"
+        },
+        {
+          "link_type": "telegram",
+          "link": "https://t.me/hyperliquidos"
+        }
+      ]
+    },
+    "hwave_s1": {
+      "metadata_id": "hwave_s1",
+      "full_name": "Hyperwave S1 Club",
+      "short_name": "S1 Club",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HWAVE_S1.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ]
+    },
+    "hwhype": {
+      "metadata_id": "hwhype",
+      "full_name": "hwHYPE",
+      "short_name": "hwHYPE",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/hwHYPE.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        },
+        {
+          "link_type": "website",
+          "link": " https://app.hyperwavefi.xyz/vaults/hwhype"
+        }
+      ]
+    },
+    "liquidity_land": {
+      "metadata_id": "liquidity_land",
+      "full_name": "Liquidity Land",
+      "short_name": "Liquidity",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/LiquidityLand.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Liquidity_Land"
+        },
+        {
+          "link_type": "website",
+          "link": "https://app.liquidity.land/project/Hyperwave"
+        }
+      ]
+    },
+    "liquina": {
+      "metadata_id": "liquina",
+      "full_name": "LQnians",
+      "short_name": "LQnians",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/LQQUINA.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/LiquinaHL"
+        },
+        {
+          "link_type": "telegram",
+          "link": "https://t.me/LQnians"
+        }
+      ]
+    },
+    "mrblock": {
+      "metadata_id": "mrblock",
+      "full_name": "Mr Block",
+      "short_name": "Mr Block",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/MrBlock.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/mrblocktw"
+        },
+        {
+          "link_type": "telegram",
+          "link": "https://t.me/mrblocktw"
+        }
+      ]
+    },
+    "odd_otties": {
+      "metadata_id": "odd_otties",
+      "full_name": "Odd Otties",
+      "short_name": "Otties",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Otties.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/ottionhl"
+        }
+      ]
+    },
+    "pip": {
+      "metadata_id": "pip",
+      "full_name": "PiPs",
+      "short_name": "PiPs",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pip.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/piponhl"
+        }
+      ]
+    },
+    "purrtardio": {
+      "metadata_id": "purrtardio",
+      "full_name": "Purrtardio",
+      "short_name": "Purrtardio",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Purrtardio.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/purrto10"
+        }
+      ]
+    },
+    "savethewhales": {
+      "metadata_id": "savethewhales",
+      "full_name": "SaveTheWhal3s",
+      "short_name": "Whal3s",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/SaveTheWhales.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/SaveTheWhal3s"
+        }
+      ]
+    },
+    "turtle": {
+      "metadata_id": "turtle",
+      "full_name": "Turtle Club",
+      "short_name": "Turtle Club",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Turtle.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/turtledotxyz"
+        },
+        {
+          "link_type": "website",
+          "link": "https://app.turtle.xyz/campaigns"
+        }
+      ]
+    }
+}
