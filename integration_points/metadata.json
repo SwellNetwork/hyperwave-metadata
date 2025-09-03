@@ -1,0 +1,12 @@
+{
+    "hyperlend": {
+        "id": "hyperlend",
+        "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/hyperlend_points.svg",
+        "text": "HyperLend Points"
+    },
+    "felix": {
+        "id": "felix",
+        "icon": "https://www.usefelix.xyz/_next/static/media/points.9357ac8c.svg",
+        "text": "Felix Points"
+    }
+}
