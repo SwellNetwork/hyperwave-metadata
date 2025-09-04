@@ -286,5 +286,29 @@
           "link": "https://app.turtle.xyz/campaigns"
         }
       ]
+    },
+    "pepes": {
+      "metadata_id": "pepes",
+      "full_name": "Pepes on Hype",
+      "short_name": "Pepes",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pepes.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/pepeesonhype"
+        }
+      ]
+    },
+    "tinyhypercats": {
+      "metadata_id": "tinyhypercats",
+      "full_name": "Tiny Hypercats",
+      "short_name": "Hypercats",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/TinyHypercats.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/tinyhypercats"
+        }
+      ]
     }
 }
