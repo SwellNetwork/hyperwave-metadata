@@ -310,5 +310,17 @@
           "link": "https://x.com/tinyhypercats"
         }
       ]
+    },
+    "illiquid": {
+      "metadata_id": "illiquid",
+      "full_name": "Illiquid",
+      "short_name": "Illiquid",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Illiquid.jpg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Illiquid_nft"
+        }
+      ]
     }
 }
