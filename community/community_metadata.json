@@ -9,7 +9,8 @@
           "link_type": "twitter",
           "link": "https://x.com/baldbrothers_"
         }
-      ]
+      ],
+      "description": "Hold a Bald Bros NFT on snapshot date"
     },
     "benmo": {
       "metadata_id": "benmo",
@@ -21,7 +22,8 @@
           "link_type": "twitter",
           "link": "https://x.com/Super4DeFi"
         }
-      ]
+      ],
+      "description": "Use ref code: BENMO"
     },
     "catbal": {
       "metadata_id": "catbal",
@@ -33,7 +35,8 @@
           "link_type": "twitter",
           "link": "https://x.com/CatCabal_hl"
         }
-      ]
+      ],
+      "description": "Hold a Catbal Pawtrait NFT on snapshot date"
     },
     "defiwhale": {
       "metadata_id": "defiwhale",
@@ -45,7 +48,8 @@
           "link_type": "twitter",
           "link": "https://x.com/DefiWhaleX"
         }
-      ]
+      ],
+      "description": "Joined Dewhales on snapshot date"
     },
     "hl_builder": {
       "metadata_id": "hl_builder",
@@ -57,7 +61,8 @@
           "link_type": "twitter",
           "link": "https://x.com/hyperbuilder_hl"
         }
-      ]
+      ],
+      "description": "Use ref code: ELLIE"
     },
     "hl_indonesia": {
       "metadata_id": "hl_indonesia",
@@ -73,7 +78,8 @@
           "link_type": "telegram",
           "link": "https://t.me/hyperliquidindonesia01"
         }
-      ]
+      ],
+      "description": "Use ref code: HYPERLIQUIDINDO"
     },
     "hl_korea": {
       "metadata_id": "hl_korea",
@@ -89,7 +95,8 @@
           "link_type": "telegram",
           "link": "https://t.me/Hyperliquid_KR"
         }
-      ]
+      ],
+      "description": "Use ref codes: HLKR or IlHYUN"
     },
     "hl_names": {
       "metadata_id": "hl_names",
@@ -101,7 +108,8 @@
           "link_type": "twitter",
           "link": "https://x.com/hlnames"
         }
-      ]
+      ],
+      "description": "Hold a HL Names NFT"
     },
     "hl_philippines": {
       "metadata_id": "hl_philippines",
@@ -113,7 +121,8 @@
           "link_type": "twitter",
           "link": "https://x.com/HyperliquidPH"
         }
-      ]
+      ],
+      "description": "Use ref code: HYPERLIQUIDPH"
     },
     "hl_russia": {
       "metadata_id": "hl_russia",
@@ -129,7 +138,8 @@
           "link_type": "telegram",
           "link": "https://t.me/hyperliquid_ru"
         }
-      ]
+      ],
+      "description": "Use ref code: HLQDRU"
     },
     "hl_spain": {
       "metadata_id": "hl_spain",
@@ -145,7 +155,8 @@
           "link_type": "telegram",
           "link": "https://t.me/hyperliquidos"
         }
-      ]
+      ],
+      "description": "Use ref code: HYPERLIQUIDOS"
     },
     "hwave_s1": {
       "metadata_id": "hwave_s1",
@@ -157,7 +168,8 @@
           "link_type": "twitter",
           "link": "https://x.com/Hyperwavefi"
         }
-      ]
+      ],
+      "description": "10% boost in S2"
     },
     "hwhype": {
       "metadata_id": "hwhype",
@@ -173,7 +185,8 @@
           "link_type": "website",
           "link": " https://app.hyperwavefi.xyz/vaults/hwhype"
         }
-      ]
+      ],
+      "description": "Deposited in hwHYPE at launch"
     },
     "liquidity_land": {
       "metadata_id": "liquidity_land",
@@ -189,7 +202,8 @@
           "link_type": "website",
           "link": "https://app.liquidity.land/project/Hyperwave"
         }
-      ]
+      ],
+      "description": "Activate on Liquidity Land"
     },
     "liquina": {
       "metadata_id": "liquina",
@@ -205,7 +219,8 @@
           "link_type": "telegram",
           "link": "https://t.me/LQnians"
         }
-      ]
+      ],
+      "description": "Hold 50BP on snapshot date"
     },
     "mrblock": {
       "metadata_id": "mrblock",
@@ -221,7 +236,8 @@
           "link_type": "telegram",
           "link": "https://t.me/mrblocktw"
         }
-      ]
+      ], 
+      "description": "Use ref code: MRBLOCK"
     },
     "odd_otties": {
       "metadata_id": "odd_otties",
@@ -233,7 +249,8 @@
           "link_type": "twitter",
           "link": "https://x.com/ottionhl"
         }
-      ]
+      ],
+      "description": "Hold an Odd Ottie NFT on snapshot date"
     },
     "pip": {
       "metadata_id": "pip",
@@ -245,7 +262,8 @@
           "link_type": "twitter",
           "link": "https://x.com/piponhl"
         }
-      ]
+      ],
+      "description": "Hold a PiP NFT"
     },
     "purrtardio": {
       "metadata_id": "purrtardio",
@@ -257,7 +275,8 @@
           "link_type": "twitter",
           "link": "https://x.com/purrto10"
         }
-      ]
+      ],
+      "description": "Hold a Purrtardio NFT"
     },
     "savethewhales": {
       "metadata_id": "savethewhales",
@@ -269,7 +288,8 @@
           "link_type": "twitter",
           "link": "https://x.com/SaveTheWhal3s"
         }
-      ]
+      ],
+      "description": "Hold a SaveTheWhal3s NFT on snapshot date"
     },
     "turtle": {
       "metadata_id": "turtle",
@@ -285,7 +305,8 @@
           "link_type": "website",
           "link": "https://app.turtle.xyz/campaigns"
         }
-      ]
+      ],
+      "description": "Joined Turtle Protocol on snapshot date"
     },
     "pepe": {
       "metadata_id": "pepe",
@@ -297,7 +318,8 @@
           "link_type": "twitter",
           "link": "https://x.com/pepeesonhype"
         }
-      ]
+      ],
+      "description": "Hold a Pepes on HYPE NFT on snapshot date"
     },
     "tinyhypercats": {
       "metadata_id": "tinyhypercats",
@@ -309,7 +331,8 @@
           "link_type": "twitter",
           "link": "https://x.com/tinyhypercats"
         }
-      ]
+      ],
+      "description": "Hold a Tiny Hypercat NFT on snapshot date"
     },
     "illiquid": {
       "metadata_id": "illiquid",
@@ -321,6 +344,7 @@
           "link_type": "twitter",
           "link": "https://x.com/Illiquid_nft"
         }
-      ]
+      ],
+      "description": "Hold an Illiquid NFT on snapshot date"
     }
 }
