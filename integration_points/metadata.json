@@ -6,7 +6,7 @@
     },
     "felix": {
         "id": "felix",
-        "icon": "https://www.usefelix.xyz/_next/static/media/points.9357ac8c.svg",
+        "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/felix.svg",
         "text": "Felix Points"
     }
 }
