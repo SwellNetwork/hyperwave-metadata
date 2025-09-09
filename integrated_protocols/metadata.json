@@ -19,6 +19,16 @@
     "link": "https://legacy.kittenswap.finance/liquidity/manage/concentrated?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
     "multiplier": 2
   },
+  "upheaval_hwhype_khype_500_999:": {
+    "id": "upheaval_hwhype_khype_500_999:",
+    "chainId": 999,
+    "name": "UpheavalFi",
+    "imageUrl": "https://i.ibb.co/kVmwqhmN/image.png",
+    "category": "DEX",
+    "asset": "hwHYPE/kHYPE 0.05%",
+    "link": "https://upheaval.fi/add/0x4de03ca1f02591b717495cfa19913ad56a2f5858/0xfd739d4e423301ce9385c1fb8850539d657c296d/500",
+    "multiplier": 3
+  },
   "curve_usde_usdt0_hwhlp_999:LP": {
     "id": "curve_usde_usdt0_hwhlp_999:LP",
     "chainId": 999,
