@@ -289,6 +289,56 @@
     "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
     "multiplier": 0
   },
+  "pendlelp_hwhlp_20251218_1:LP": {
+    "id": "pendlelp_hwhlp_20251218_1:LP",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "LP on Pendle hwhLP 20250925",
+    "link": "https://app.pendle.finance/trade/pools/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6/zap/in?chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20251218_1:EQB": {
+    "id": "pendlelp_hwhlp_20251218_1:EQB",
+    "chainId": 1,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria hwhLP 20250925",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20251218_1:PNP": {
+    "id": "pendlelp_hwhlp_20251218_1:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie hwhLP 20250925",
+    "link": "https://www.pendle.magpiexyz.io/stake/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6",
+    "multiplier": 4
+  },
+  "pendleyt_hwhlp_20251218_1:": {
+    "id": "pendleyt_hwhlp_20251218_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHLP 20250925",
+    "link": "https://app.pendle.finance/trade/markets/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6/swap?view=yt&chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlept_hwhlp_20251218_1:": {
+    "id": "pendlept_hwhlp_20251218_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHLP 20250925",
+    "link": "https://app.pendle.finance/trade/markets/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6/swap?view=pt&chain=ethereum",
+    "multiplier": 0
+  },
   "pendlesy_hwhlp_1:": {
     "id": "pendlesy_hwhlp_1:",
     "chainId": 1,
