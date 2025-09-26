@@ -788,6 +788,36 @@
     "asset": "hwHLP/USDT0 0.05%",
     "link": "https://www.prjx.com/deposit?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=500&newPool=true",
     "multiplier": 2.5
+  },
+  "hwusd_999:": {
+    "id": "hwhype_999:",
+    "chainId": 999,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/vaults/hwstable.svg",
+    "category": "Holding",
+    "asset": "hwUSD",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
+  },
+  "hwusd_1:": {
+    "id": "hwhype_1:",
+    "chainId": 1,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/vaults/hwstable.svg",
+    "category": "Holding",
+    "asset": "hwUSD Mainnet",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
+  },
+  "hwusd_8453:": {
+    "id": "hwhype_8453:",
+    "chainId": 8453,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/vaults/hwstable.svg",
+    "category": "Holding",
+    "asset": "hwUSD Base",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
   }
 }
 
