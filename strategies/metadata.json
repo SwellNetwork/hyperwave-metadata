@@ -7,6 +7,10 @@
     "name": "Supply HYPE to HypurrFi hyHYPE",
     "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
   },
+  "hyperliquid_khype_999": {
+    "name": "Hold Kinetiq kHYPE",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
+  },
   "hyperliquid_whype_999": {
     "name": "Unallocated HYPE",
     "icon": "https://pbs.twimg.com/profile_images/1646991609416806408/vKLEZxhh_400x400.png"
