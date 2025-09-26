@@ -1,0 +1,20 @@
+{
+  "hyperlend": {
+    "id": "hyperlend",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/hyperlend_points.svg",
+    "protocol_icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg",
+    "text": "HyperLend Points"
+  },
+  "felix": {
+    "id": "felix",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/felix.svg",
+    "protocol_icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100",
+    "text": "Felix Points"
+  },
+  "hypurrfi": {
+    "id": "hypurrfi",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/hypurrfi.svg",
+    "protocol_icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg",
+    "text": "HypurrFi Points"
+  }
+}

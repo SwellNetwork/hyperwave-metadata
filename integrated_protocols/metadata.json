@@ -19,6 +19,16 @@
     "link": "https://legacy.kittenswap.finance/liquidity/manage/concentrated?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
     "multiplier": 2
   },
+  "upheaval_hwhype_khype_500_999:": {
+    "id": "upheaval_hwhype_khype_500_999:",
+    "chainId": 999,
+    "name": "UpheavalFi",
+    "imageUrl": "https://i.ibb.co/kVmwqhmN/image.png",
+    "category": "DEX",
+    "asset": "hwHYPE/kHYPE 0.05%",
+    "link": "https://upheaval.fi/add/0x4de03ca1f02591b717495cfa19913ad56a2f5858/0xfd739d4e423301ce9385c1fb8850539d657c296d/500",
+    "multiplier": 3
+  },
   "curve_usde_usdt0_hwhlp_999:LP": {
     "id": "curve_usde_usdt0_hwhlp_999:LP",
     "chainId": 999,
@@ -277,6 +287,56 @@
     "category": "Yield",
     "asset": "Hold PT-hwHLP 20250925",
     "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "multiplier": 0
+  },
+  "pendlelp_hwhlp_20251218_1:LP": {
+    "id": "pendlelp_hwhlp_20251218_1:LP",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "LP on Pendle hwhLP 20251218",
+    "link": "https://app.pendle.finance/trade/pools/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6/zap/in?chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20251218_1:EQB": {
+    "id": "pendlelp_hwhlp_20251218_1:EQB",
+    "chainId": 1,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria hwhLP 20251218",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20251218_1:PNP": {
+    "id": "pendlelp_hwhlp_20251218_1:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie hwhLP 20251218",
+    "link": "https://www.pendle.magpiexyz.io/stake/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6",
+    "multiplier": 4
+  },
+  "pendleyt_hwhlp_20251218_1:": {
+    "id": "pendleyt_hwhlp_20251218_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHLP 20251218",
+    "link": "https://app.pendle.finance/trade/markets/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6/swap?view=yt&chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlept_hwhlp_20251218_1:": {
+    "id": "pendlept_hwhlp_20251218_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHLP 20251218",
+    "link": "https://app.pendle.finance/trade/markets/0xe5c04b27476a71803fed99a0914a2fc5c37e4cf6/swap?view=pt&chain=ethereum",
     "multiplier": 0
   },
   "pendlesy_hwhlp_1:": {
@@ -728,6 +788,36 @@
     "asset": "hwHLP/USDT0 0.05%",
     "link": "https://www.prjx.com/deposit?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=500&newPool=true",
     "multiplier": 2.5
+  },
+  "hwusd_999:": {
+    "id": "hwhype_999:",
+    "chainId": 999,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/vaults/hwstable.svg",
+    "category": "Holding",
+    "asset": "hwUSD",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
+  },
+  "hwusd_1:": {
+    "id": "hwhype_1:",
+    "chainId": 1,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/vaults/hwstable.svg",
+    "category": "Holding",
+    "asset": "hwUSD Mainnet",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
+  },
+  "hwusd_8453:": {
+    "id": "hwhype_8453:",
+    "chainId": 8453,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/vaults/hwstable.svg",
+    "category": "Holding",
+    "asset": "hwUSD Base",
+    "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
+    "multiplier": 1
   }
 }
 
