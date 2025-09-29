@@ -22,5 +22,9 @@
   "pendlept_pt-khype_999": {
     "name": "Buy Pendle PT-kHYPE",
     "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
+  "pendlept_pt-vkhype_999": {
+    "name": "Buy Pendle PT-vkHYPE",
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
   }
 }
