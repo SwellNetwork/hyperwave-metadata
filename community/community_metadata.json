@@ -359,5 +359,19 @@
         }
       ],
       "description": "Maintain 10,000 $PUP token balance on snapshot date"
+    },
+    "hypurr": {
+      "metadata_id": "hypurr",
+      "full_name": "Hypurr",
+      "short_name": "Hypurr",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Hypurr.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperintern"
+        }
+      ],
+      "description": "Hold Hypurr NFT on snapshot date"
     }
+
 }
