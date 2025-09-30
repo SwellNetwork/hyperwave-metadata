@@ -19,6 +19,16 @@
     "link": "https://legacy.kittenswap.finance/liquidity/manage/concentrated?tokenA=0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
     "multiplier": 2
   },
+  "ultrasolid_hwhlp_usdt0_100_999:": {
+    "id": "ultrasolid_hwhlp_usdt0_100_999:",
+    "chainId": 999,
+    "name": "UltraSolid",
+    "imageUrl": "https://i.ibb.co/DfT385fD/image.png",
+    "category": "DEX",
+    "asset": "hwHLP/USDT0 0.01%",
+    "link": "https://app.ultrasolid.xyz/liquidity/0x4743fb9417104d6cb2d82564c3884c6a26dc565e",
+    "multiplier": 2.5
+  },
   "upheaval_hwhype_khype_500_999:": {
     "id": "upheaval_hwhype_khype_500_999:",
     "chainId": 999,
