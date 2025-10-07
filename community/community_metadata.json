@@ -372,6 +372,18 @@
         }
       ],
       "description": "Hold Hypurr NFT on snapshot date"
+    },
+    "boosted_otties": {
+      "metadata_id": "boosted_otties",
+      "full_name": "Hyperwave Otties",
+      "short_name": "Hyperwave Otties",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BoostedOttie.jpeg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Hold Hyperwave Otties NFT on snapshot date"
     }
-
 }
