@@ -30,5 +30,33 @@
   "withdrawal_khype_999": {
     "name": "Kinetiq kHYPE Unstaking Queue",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
+  },
+  "ethereum_usdt_1": {
+      "name": "Hold USDT on Ethereum",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
+  },
+  "ethereum_usdc_1": {
+      "name": "Hold USDC on Ethereum",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
+  },
+  "ethereum_usde_1": {
+      "name": "Hold USDe on Ethereum",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
+  },
+  "base_usdc_1": {
+      "name": "Hold USDC on Base",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"
+  },
+  "base_usde_1": {
+      "name": "Hold USDe on Base",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg"
+  },
+  "hyperlend_husdhl_999": {
+    "name": "Supply USDHL to HyperLend hUSDHL",
+    "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
+  },
+  "hyperlend_husdt0_999": {
+    "name": "Supply USDT0 to HyperLend hUSDT0",
+    "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
   }
 }
