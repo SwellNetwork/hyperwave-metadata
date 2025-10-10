@@ -82,5 +82,29 @@
   "aave_ausdc_8453": {
     "name": "Supply USDC to Aave aUSDC on Base",
     "icon": "https://app.aave.com/icons/tokens/aave.svg"
+  },
+  "morpho_mevcapusdc_1": {
+    "name" : "Supply USDC to MevCapital USDC Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+  },
+  "morpho_steakhouseusdc_1": {
+    "name" : "Supply USDT to SteakHouse USDT Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+  },
+  "morpho_steakhouseusdt_1": {
+    "name" : "Supply USDC to SteakHouse USDC Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+  },
+  "morpho_smokehouseusdc_1": {
+    "name" : "Supply USDC to SmokeHouse USDC Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+  },
+  "morpho_sparkusdc_1": {
+    "name" : "Supply USDC to Spark USDC Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+  },
+  "morpho_seamlessusdc_1": {
+    "name" : "Supply USDC to Seamless USDC Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   }
 }
