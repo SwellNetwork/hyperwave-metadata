@@ -59,6 +59,10 @@
     "name": "Supply USDT0 to HyperLend hUSDT0",
     "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
   },
+  "hyperlend_husde_999": {
+    "name": "Supply USDe to HyperLend hUSDe",
+    "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
+  },
   "hypurrfi_hyusdhl_999": {
     "name": "Supply USDHL to HypurrFi hyUSDHL",
     "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
@@ -73,6 +77,10 @@
   },
   "felix_feusde_999": {
     "name": "Supply USDe to Felix feUSDe",
+    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+  },
+  "felix_feusdc_999": {
+    "name": "Supply USDC to Felix feUSDC",
     "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
   },
   "aave_ausdc_1": {
