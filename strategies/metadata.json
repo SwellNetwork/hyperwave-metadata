@@ -99,11 +99,11 @@
     "name" : "Supply USDC to SmokeHouse USDC Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
-  "morpho_sparkusdc_1": {
+  "morpho_sparkusdc_8453": {
     "name" : "Supply USDC to Spark USDC Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
-  "morpho_seamlessusdc_1": {
+  "morpho_seamlessusdc_8453": {
     "name" : "Supply USDC to Seamless USDC Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   }
