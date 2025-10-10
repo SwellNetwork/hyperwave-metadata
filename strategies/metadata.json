@@ -74,5 +74,13 @@
   "felix_feusde_999": {
     "name": "Supply USDe to Felix feUSDe",
     "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+  },
+  "aave_ausdc_1": {
+    "name": "Supply USDC to Aave aUSDC on Ethereum",
+    "icon": "https://app.aave.com/icons/tokens/aave.svg"
+  },
+  "aave_ausdc_8453": {
+    "name": "Supply USDC to Aave aUSDC on Base",
+    "icon": "https://app.aave.com/icons/tokens/aave.svg"
   }
 }
