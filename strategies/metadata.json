@@ -114,5 +114,9 @@
   "morpho_seamlessusdc_8453": {
     "name" : "Supply USDC to Seamless USDC Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+  },
+  "hypurrfi_hyusde_999": {
+    "name": "Supply USDe to HypurrFi hyUSDe",
+    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
   }
 }
