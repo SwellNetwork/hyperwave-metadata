@@ -96,11 +96,11 @@
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdc_1": {
-    "name" : "Supply USDT to SteakHouse USDT Vault",
+    "name" : "Supply USDC to SteakHouse USDC Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdt_1": {
-    "name" : "Supply USDC to SteakHouse USDC Vault",
+    "name" : "Supply USDT to SteakHouse USDT Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_smokehouseusdc_1": {
@@ -118,5 +118,9 @@
   "hypurrfi_hyusde_999": {
     "name": "Supply USDe to HypurrFi hyUSDe",
     "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+  },
+  "aave_ausdt_1": {
+    "name": "Supply USDT to Aave aUSDT on Ethereum",
+    "icon": "https://app.aave.com/icons/tokens/aave.svg"
   }
 }
