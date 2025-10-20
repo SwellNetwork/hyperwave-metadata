@@ -828,6 +828,16 @@
     "asset": "hwUSD Base",
     "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
     "multiplier": 1
+  },
+  "gwave_999": {
+    "id": "gwave_999",
+    "chainId": 999,
+    "name": "Hyperwave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x855cedd0e13be116f3eb17fa7b7b682999f55c4f.svg",
+    "category": "Staking",
+    "asset": "Stake HWAVE",
+    "link": "https://app.hyperwavefi.xyz/assets/gwave",
+    "multiplier": 1
   }
 }
 
