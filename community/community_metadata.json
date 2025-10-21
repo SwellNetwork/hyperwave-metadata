@@ -10,7 +10,8 @@
           "link": "https://x.com/baldbrothers_"
         }
       ],
-      "description": "Hold a Bald Bros NFT on snapshot date"
+      "description": "Hold a Bald Bros NFT on snapshot date",
+      "is_visible": true
     },
     "benmo": {
       "metadata_id": "benmo",
@@ -23,7 +24,8 @@
           "link": "https://x.com/Super4DeFi"
         }
       ],
-      "description": "Use ref code: BENMO"
+      "description": "Use ref code: BENMO",
+      "is_visible": true
     },
     "catbal": {
       "metadata_id": "catbal",
@@ -36,7 +38,8 @@
           "link": "https://x.com/CatCabal_hl"
         }
       ],
-      "description": "Hold a Catbal Pawtrait NFT on snapshot date"
+      "description": "Hold a Catbal Pawtrait NFT on snapshot date",
+      "is_visible": true
     },
     "defiwhale": {
       "metadata_id": "defiwhale",
@@ -49,7 +52,8 @@
           "link": "https://x.com/DefiWhaleX"
         }
       ],
-      "description": "Joined Dewhales on snapshot date"
+      "description": "Joined Dewhales on snapshot date",
+      "is_visible": true
     },
     "hl_builder": {
       "metadata_id": "hl_builder",
@@ -62,7 +66,8 @@
           "link": "https://x.com/hyperbuilder_hl"
         }
       ],
-      "description": "Use ref code: ELLIE"
+      "description": "Use ref code: ELLIE",
+      "is_visible": true
     },
     "hl_indonesia": {
       "metadata_id": "hl_indonesia",
@@ -79,7 +84,8 @@
           "link": "https://t.me/hyperliquidindonesia01"
         }
       ],
-      "description": "Use ref code: HYPERLIQUIDINDO"
+      "description": "Use ref code: HYPERLIQUIDINDO",
+      "is_visible": true
     },
     "hl_korea": {
       "metadata_id": "hl_korea",
@@ -96,7 +102,8 @@
           "link": "https://t.me/Hyperliquid_KR"
         }
       ],
-      "description": "Use ref codes: HLKR or ILHYUN"
+      "description": "Use ref codes: HLKR or ILHYUN",
+      "is_visible": true
     },
     "hl_names": {
       "metadata_id": "hl_names",
@@ -109,7 +116,8 @@
           "link": "https://x.com/hlnames"
         }
       ],
-      "description": "Hold a HL Names NFT"
+      "description": "Hold a HL Names NFT",
+      "is_visible": true
     },
     "hl_philippines": {
       "metadata_id": "hl_philippines",
@@ -122,7 +130,8 @@
           "link": "https://x.com/HyperliquidPH"
         }
       ],
-      "description": "Use ref code: HYPERLIQUIDPH"
+      "description": "Use ref code: HYPERLIQUIDPH",
+      "is_visible": true
     },
     "hl_russia": {
       "metadata_id": "hl_russia",
@@ -139,7 +148,8 @@
           "link": "https://t.me/hyperliquid_ru"
         }
       ],
-      "description": "Use ref code: HLQDRU"
+      "description": "Use ref code: HLQDRU",
+      "is_visible": true
     },
     "hl_spain": {
       "metadata_id": "hl_spain",
@@ -156,7 +166,8 @@
           "link": "https://t.me/hyperliquidos"
         }
       ],
-      "description": "Use ref code: HYPERLIQUIDOS"
+      "description": "Use ref code: HYPERLIQUIDOS",
+      "is_visible": true
     },
     "hwave_s1": {
       "metadata_id": "hwave_s1",
@@ -169,7 +180,8 @@
           "link": "https://x.com/Hyperwavefi"
         }
       ],
-      "description": "10% boost in S2"
+      "description": "10% boost in S2",
+      "is_visible": true
     },
     "hwhype": {
       "metadata_id": "hwhype",
@@ -186,7 +198,8 @@
           "link": " https://app.hyperwavefi.xyz/vaults/hwhype"
         }
       ],
-      "description": "Deposited in hwHYPE at launch"
+      "description": "Deposited in hwHYPE at launch",
+      "is_visible": true
     },
     "liquidity_land": {
       "metadata_id": "liquidity_land",
@@ -203,7 +216,8 @@
           "link": "https://app.liquidity.land/project/Hyperwave"
         }
       ],
-      "description": "Activate on Liquidity Land"
+      "description": "Activate on Liquidity Land",
+      "is_visible": true
     },
     "liquina": {
       "metadata_id": "liquina",
@@ -220,7 +234,8 @@
           "link": "https://t.me/LQnians"
         }
       ],
-      "description": "Hold 50BP on snapshot date"
+      "description": "Hold 50BP on snapshot date",
+      "is_visible": true
     },
     "mrblock": {
       "metadata_id": "mrblock",
@@ -237,7 +252,8 @@
           "link": "https://t.me/mrblocktw"
         }
       ], 
-      "description": "Use ref code: MRBLOCK"
+      "description": "Use ref code: MRBLOCK",
+      "is_visible": true
     },
     "odd_otties": {
       "metadata_id": "odd_otties",
@@ -250,7 +266,8 @@
           "link": "https://x.com/ottionhl"
         }
       ],
-      "description": "Hold an Odd Ottie NFT on snapshot date"
+      "description": "Hold an Odd Ottie NFT on snapshot date",
+      "is_visible": true
     },
     "pip": {
       "metadata_id": "pip",
@@ -263,7 +280,8 @@
           "link": "https://x.com/piponhl"
         }
       ],
-      "description": "Hold a PiP NFT"
+      "description": "Hold a PiP NFT",
+      "is_visible": true
     },
     "purrtardio": {
       "metadata_id": "purrtardio",
@@ -276,7 +294,8 @@
           "link": "https://x.com/purrto10"
         }
       ],
-      "description": "Hold a Purrtardio NFT"
+      "description": "Hold a Purrtardio NFT",
+      "is_visible": true
     },
     "savethewhales": {
       "metadata_id": "savethewhales",
@@ -289,7 +308,8 @@
           "link": "https://x.com/SaveTheWhal3s"
         }
       ],
-      "description": "Hold a SaveTheWhal3s NFT on snapshot date"
+      "description": "Hold a SaveTheWhal3s NFT on snapshot date",
+      "is_visible": true
     },
     "turtle": {
       "metadata_id": "turtle",
@@ -306,7 +326,8 @@
           "link": "https://app.turtle.xyz/campaigns"
         }
       ],
-      "description": "Joined Turtle Protocol on snapshot date"
+      "description": "Joined Turtle Protocol on snapshot date",
+      "is_visible": true
     },
     "pepe": {
       "metadata_id": "pepe",
@@ -319,7 +340,8 @@
           "link": "https://x.com/pepeesonhype"
         }
       ],
-      "description": "Hold a Pepes on HYPE NFT on snapshot date"
+      "description": "Hold a Pepes on HYPE NFT on snapshot date",
+      "is_visible": true
     },
     "tinyhypercats": {
       "metadata_id": "tinyhypercats",
@@ -332,7 +354,8 @@
           "link": "https://x.com/tinyhypercats"
         }
       ],
-      "description": "Hold a Tiny Hypercat NFT on snapshot date"
+      "description": "Hold a Tiny Hypercat NFT on snapshot date",
+      "is_visible": true
     },
     "illiquid": {
       "metadata_id": "illiquid",
@@ -345,7 +368,8 @@
           "link": "https://x.com/Illiquid_nft"
         }
       ],
-      "description": "Hold an Illiquid NFT on snapshot date"
+      "description": "Hold an Illiquid NFT on snapshot date",
+      "is_visible": true
     },
     "pups": {
       "metadata_id": "pups",
@@ -358,7 +382,8 @@
           "link": "https://x.com/Upheavalfi"
         }
       ],
-      "description": "Maintain 10,000 $PUP token balance on snapshot date"
+      "description": "Maintain 10,000 $PUP token balance on snapshot date",
+      "is_visible": true
     },
     "hypurr": {
       "metadata_id": "hypurr",
@@ -371,7 +396,8 @@
           "link": "https://x.com/Hyperintern"
         }
       ],
-      "description": "Hold Hypurr NFT on snapshot date"
+      "description": "Hold Hypurr NFT on snapshot date",
+      "is_visible": true
     },
     "boosted_otties": {
       "metadata_id": "boosted_otties",
@@ -384,6 +410,63 @@
           "link": "https://x.com/Hyperwavefi"
         }
       ],
-      "description": "Hold Hyperwave Otties NFT on snapshot date"
+      "description": "Hold Hyperwave Otties NFT on snapshot date",
+      "is_visible": true
+    },
+    "lbp": {
+      "metadata_id": "lbp",
+      "full_name": "LBP Participant",
+      "short_name": "LBP",
+      "logo_url": "https://raw.githubusercontent.com/balancer/brand-assets/455ad634ab7e592e5d7a1891950d56542bf0a93b/logo/circle-container/logo-balancer-black-512x512.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://app.hyperwavefi.xyz/portfolio"
+        }
+      ],
+      "description": "Participated in Hyperwave LBP",
+      "is_visible": true
+    },
+    "hwusd": {
+      "metadata_id": "hwusd",
+      "full_name": "hwUSD Holder",
+      "short_name": "hwUSD",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Hold hwUSD on snapshot date",
+      "is_visible": true
+    },
+    "gwave": {
+      "metadata_id": "gwave",
+      "full_name": "gWAVE Depositors",
+      "short_name": "gWave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x855cedd0e13be116f3eb17fa7b7b682999f55c4f.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Deposit into gWAVE",
+      "is_visible": true
+    },
+    "vip": {
+      "metadata_id": "vip",
+      "full_name": "Hyperwave VIP",
+      "short_name": "VIP",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/hwHYPE.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Hyperwave VIP members",
+      "is_visible": false
     }
 }
