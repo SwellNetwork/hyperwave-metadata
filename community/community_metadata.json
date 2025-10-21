@@ -385,5 +385,44 @@
         }
       ],
       "description": "Hold Hyperwave Otties NFT on snapshot date"
+    },
+    "lbp": {
+      "metadata_id": "lbp",
+      "full_name": "LBP Participant",
+      "short_name": "LBP",
+      "logo_url": "https://raw.githubusercontent.com/balancer/brand-assets/455ad634ab7e592e5d7a1891950d56542bf0a93b/logo/circle-container/logo-balancer-black-512x512.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://app.hyperwavefi.xyz/portfolio"
+        }
+      ],
+      "description": "Participated in Hyperwave LBP"
+    },
+    "hwusd": {
+      "metadata_id": "hwusd",
+      "full_name": "hwUSD Holder",
+      "short_name": "hwUSD",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Hold hwUSD on snapshot date"
+    },
+    "gwave": {
+      "metadata_id": "gwave",
+      "full_name": "gWAVE Depositors",
+      "short_name": "gWave",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x855cedd0e13be116f3eb17fa7b7b682999f55c4f.svg",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Deposit into gWAVE"
     }
 }
