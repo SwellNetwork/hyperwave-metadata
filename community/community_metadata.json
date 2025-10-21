@@ -413,6 +413,20 @@
       "description": "Hold Hyperwave Otties NFT on snapshot date",
       "is_visible": true
     },
+    "boosted_pips": {
+      "metadata_id": "boosted_pips",
+      "full_name": "Hyperwave PiPs",
+      "short_name": "Hyperwave PiPs",
+      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BoostedPip.png",
+      "links": [
+        {
+          "link_type": "twitter",
+          "link": "https://x.com/Hyperwavefi"
+        }
+      ],
+      "description": "Hold Hyperwave PiPs NFT on snapshot date",
+      "is_visible": true
+    },
     "lbp": {
       "metadata_id": "lbp",
       "full_name": "LBP Participant",
