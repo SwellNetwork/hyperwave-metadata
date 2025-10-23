@@ -1,486 +1,486 @@
 {
-    "baldbros": {
-      "metadata_id": "baldbros",
-      "full_name": "Bald Bros",
-      "short_name": "Bros",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BaldBros.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/baldbrothers_"
-        }
-      ],
-      "description": "Hold a Bald Bros NFT on snapshot date",
-      "is_visible": true
-    },
-    "benmo": {
-      "metadata_id": "benmo",
-      "full_name": "Benmo",
-      "short_name": "Benmo",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/benmo.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Super4DeFi"
-        }
-      ],
-      "description": "Use ref code: BENMO",
-      "is_visible": true
-    },
-    "catbal": {
-      "metadata_id": "catbal",
-      "full_name": "CatBal",
-      "short_name": "CatBal",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/CatBal.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/CatCabal_hl"
-        }
-      ],
-      "description": "Hold a Catbal Pawtrait NFT on snapshot date",
-      "is_visible": true
-    },
-    "defiwhale": {
-      "metadata_id": "defiwhale",
-      "full_name": "DeFi Whale",
-      "short_name": "DeFi Whale",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/DefiWhale.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/DefiWhaleX"
-        }
-      ],
-      "description": "Joined Dewhales on snapshot date",
-      "is_visible": true
-    },
-    "hl_builder": {
-      "metadata_id": "hl_builder",
-      "full_name": "Hyperbuilder",
-      "short_name": "HBuilder",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Hyperbuilder.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/hyperbuilder_hl"
-        }
-      ],
-      "description": "Use ref code: ELLIE",
-      "is_visible": true
-    },
-    "hl_indonesia": {
-      "metadata_id": "hl_indonesia",
-      "full_name": "Hyperliquid Indonesia",
-      "short_name": "Indonesia",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidIND.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperliquid_IDN"
-        },
-        {
-          "link_type": "telegram",
-          "link": "https://t.me/hyperliquidindonesia01"
-        }
-      ],
-      "description": "Use ref code: HYPERLIQUIDINDO",
-      "is_visible": true
-    },
-    "hl_korea": {
-      "metadata_id": "hl_korea",
-      "full_name": "Hyperliquid Korea",
-      "short_name": "Korea",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidKR.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperliquid_KR"
-        },
-        {
-          "link_type": "telegram",
-          "link": "https://t.me/Hyperliquid_KR"
-        }
-      ],
-      "description": "Use ref codes: HLKR or ILHYUN",
-      "is_visible": true
-    },
-    "hl_names": {
-      "metadata_id": "hl_names",
-      "full_name": "HL Names",
-      "short_name": "HL Names",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HLNames.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/hlnames"
-        }
-      ],
-      "description": "Hold a HL Names NFT",
-      "is_visible": true
-    },
-    "hl_philippines": {
-      "metadata_id": "hl_philippines",
-      "full_name": "HL Philippines",
-      "short_name": "HL Phil",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperLiquidPH.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/HyperliquidPH"
-        }
-      ],
-      "description": "Use ref code: HYPERLIQUIDPH",
-      "is_visible": true
-    },
-    "hl_russia": {
-      "metadata_id": "hl_russia",
-      "full_name": "Hyperliquid Russia",
-      "short_name": "Russia",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidRUS.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/chip1cr"
-        },
-        {
-          "link_type": "telegram",
-          "link": "https://t.me/hyperliquid_ru"
-        }
-      ],
-      "description": "Use ref code: HLQDRU",
-      "is_visible": true
-    },
-    "hl_spain": {
-      "metadata_id": "hl_spain",
-      "full_name": "Hyperliquid Spain",
-      "short_name": "HL Spain",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperLiquidos.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/hyperliquidos"
-        },
-        {
-          "link_type": "telegram",
-          "link": "https://t.me/hyperliquidos"
-        }
-      ],
-      "description": "Use ref code: HYPERLIQUIDOS",
-      "is_visible": true
-    },
-    "hwave_s1": {
-      "metadata_id": "hwave_s1",
-      "full_name": "Hyperwave S1 Club",
-      "short_name": "S1 Club",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HWAVE_S1.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        }
-      ],
-      "description": "10% boost in S2",
-      "is_visible": true
-    },
-    "hwhype": {
-      "metadata_id": "hwhype",
-      "full_name": "hwHYPE",
-      "short_name": "hwHYPE",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/hwHYPE.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        },
-        {
-          "link_type": "website",
-          "link": " https://app.hyperwavefi.xyz/vaults/hwhype"
-        }
-      ],
-      "description": "Deposited in hwHYPE at launch",
-      "is_visible": true
-    },
-    "liquidity_land": {
-      "metadata_id": "liquidity_land",
-      "full_name": "Liquidity Land",
-      "short_name": "Liquidity",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/LiquidityLand.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Liquidity_Land"
-        },
-        {
-          "link_type": "website",
-          "link": "https://app.liquidity.land/project/Hyperwave"
-        }
-      ],
-      "description": "Activate on Liquidity Land",
-      "is_visible": true
-    },
-    "liquina": {
-      "metadata_id": "liquina",
-      "full_name": "LQnians",
-      "short_name": "LQnians",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/LQQUINA.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/LiquinaHL"
-        },
-        {
-          "link_type": "telegram",
-          "link": "https://t.me/LQnians"
-        }
-      ],
-      "description": "Hold 50BP on snapshot date",
-      "is_visible": true
-    },
-    "mrblock": {
-      "metadata_id": "mrblock",
-      "full_name": "Mr Block",
-      "short_name": "Mr Block",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/MrBlock.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/mrblocktw"
-        },
-        {
-          "link_type": "telegram",
-          "link": "https://t.me/mrblocktw"
-        }
-      ], 
-      "description": "Use ref code: MRBLOCK",
-      "is_visible": true
-    },
-    "odd_otties": {
-      "metadata_id": "odd_otties",
-      "full_name": "Odd Otties",
-      "short_name": "Otties",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Otties.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/ottionhl"
-        }
-      ],
-      "description": "Hold an Odd Ottie NFT on snapshot date",
-      "is_visible": true
-    },
-    "pip": {
-      "metadata_id": "pip",
-      "full_name": "PiPs",
-      "short_name": "PiPs",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pip.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/piponhl"
-        }
-      ],
-      "description": "Hold a PiP NFT",
-      "is_visible": true
-    },
-    "purrtardio": {
-      "metadata_id": "purrtardio",
-      "full_name": "Purrtardio",
-      "short_name": "Purrtardio",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Purrtardio.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/purrto10"
-        }
-      ],
-      "description": "Hold a Purrtardio NFT",
-      "is_visible": true
-    },
-    "savethewhales": {
-      "metadata_id": "savethewhales",
-      "full_name": "SaveTheWhal3s",
-      "short_name": "Whal3s",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/SaveTheWhales.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/SaveTheWhal3s"
-        }
-      ],
-      "description": "Hold a SaveTheWhal3s NFT on snapshot date",
-      "is_visible": true
-    },
-    "turtle": {
-      "metadata_id": "turtle",
-      "full_name": "Turtle Club",
-      "short_name": "Turtle Club",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Turtle.svg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/turtledotxyz"
-        },
-        {
-          "link_type": "website",
-          "link": "https://app.turtle.xyz/campaigns"
-        }
-      ],
-      "description": "Joined Turtle Protocol on snapshot date",
-      "is_visible": true
-    },
-    "pepe": {
-      "metadata_id": "pepe",
-      "full_name": "Pepes on Hype",
-      "short_name": "Pepes",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pepes.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/pepeesonhype"
-        }
-      ],
-      "description": "Hold a Pepes on HYPE NFT on snapshot date",
-      "is_visible": true
-    },
-    "tinyhypercats": {
-      "metadata_id": "tinyhypercats",
-      "full_name": "Tiny Hypercats",
-      "short_name": "Hypercats",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/TinyHyperCats.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/tinyhypercats"
-        }
-      ],
-      "description": "Hold a Tiny Hypercat NFT on snapshot date",
-      "is_visible": true
-    },
-    "illiquid": {
-      "metadata_id": "illiquid",
-      "full_name": "Illiquid",
-      "short_name": "Illiquid",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Illiquid.jpg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Illiquid_nft"
-        }
-      ],
-      "description": "Hold an Illiquid NFT on snapshot date",
-      "is_visible": true
-    },
-    "pups": {
-      "metadata_id": "pups",
-      "full_name": "Pups",
-      "short_name": "Pups",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pups.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Upheavalfi"
-        }
-      ],
-      "description": "Maintain 10,000 $PUP token balance on snapshot date",
-      "is_visible": true
-    },
-    "hypurr": {
-      "metadata_id": "hypurr",
-      "full_name": "Hypurr",
-      "short_name": "Hypurr",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Hypurr.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperintern"
-        }
-      ],
-      "description": "Hold Hypurr NFT on snapshot date",
-      "is_visible": true
-    },
-    "boosted_otties": {
-      "metadata_id": "boosted_otties",
-      "full_name": "Hyperwave Otties",
-      "short_name": "Hyperwave Otties",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BoostedOttie.jpeg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        }
-      ],
-      "description": "Hold Hyperwave Otties NFT on snapshot date",
-      "is_visible": true
-    },
-    "boosted_pips": {
-      "metadata_id": "boosted_pips",
-      "full_name": "Hyperwave PiPs",
-      "short_name": "Hyperwave PiPs",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BoostedPip.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        }
-      ],
-      "description": "Hold Hyperwave PiPs NFT on snapshot date",
-      "is_visible": true
-    },
-    "lbp": {
-      "metadata_id": "lbp",
-      "full_name": "LBP Participant",
-      "short_name": "LBP",
-      "logo_url": "https://raw.githubusercontent.com/balancer/brand-assets/455ad634ab7e592e5d7a1891950d56542bf0a93b/logo/circle-container/logo-balancer-black-512x512.svg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://app.hyperwavefi.xyz/portfolio"
-        }
-      ],
-      "description": "Participated in Hyperwave LBP",
-      "is_visible": true
-    },
-    "hwusd": {
-      "metadata_id": "hwusd",
-      "full_name": "hwUSD Holder",
-      "short_name": "hwUSD",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77.svg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        }
-      ],
-      "description": "Hold hwUSD on snapshot date",
-      "is_visible": true
-    },
-    "gwave": {
-      "metadata_id": "gwave",
-      "full_name": "gWAVE Depositors",
-      "short_name": "gWave",
-    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x855cedd0e13be116f3eb17fa7b7b682999f55c4f.svg",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        }
-      ],
-      "description": "Deposit into gWAVE",
-      "is_visible": true
-    },
-    "vip": {
-      "metadata_id": "vip",
-      "full_name": "Hyperwave VIP",
-      "short_name": "VIP",
-      "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/hwHYPE.png",
-      "links": [
-        {
-          "link_type": "twitter",
-          "link": "https://x.com/Hyperwavefi"
-        }
-      ],
-      "description": "Hyperwave VIP members",
-      "is_visible": false
-    }
+  "baldbros": {
+    "metadata_id": "baldbros",
+    "full_name": "Bald Bros",
+    "short_name": "Bros",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BaldBros.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/baldbrothers_"
+      }
+    ],
+    "description": "Hold a Bald Bros NFT on snapshot date",
+    "is_visible": true
+  },
+  "benmo": {
+    "metadata_id": "benmo",
+    "full_name": "Benmo",
+    "short_name": "Benmo",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/benmo.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Super4DeFi"
+      }
+    ],
+    "description": "Use ref code: BENMO",
+    "is_visible": true
+  },
+  "catbal": {
+    "metadata_id": "catbal",
+    "full_name": "CatBal",
+    "short_name": "CatBal",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/CatBal.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/CatCabal_hl"
+      }
+    ],
+    "description": "Hold a Catbal Pawtrait NFT on snapshot date",
+    "is_visible": true
+  },
+  "defiwhale": {
+    "metadata_id": "defiwhale",
+    "full_name": "DeFi Whale",
+    "short_name": "DeFi Whale",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/DefiWhale.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/DefiWhaleX"
+      }
+    ],
+    "description": "Joined Dewhales on snapshot date",
+    "is_visible": true
+  },
+  "hl_builder": {
+    "metadata_id": "hl_builder",
+    "full_name": "Hyperbuilder",
+    "short_name": "HBuilder",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Hyperbuilder.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/hyperbuilder_hl"
+      }
+    ],
+    "description": "Use ref code: ELLIE",
+    "is_visible": true
+  },
+  "hl_indonesia": {
+    "metadata_id": "hl_indonesia",
+    "full_name": "Hyperliquid Indonesia",
+    "short_name": "Indonesia",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidIND.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperliquid_IDN"
+      },
+      {
+        "link_type": "telegram",
+        "link": "https://t.me/hyperliquidindonesia01"
+      }
+    ],
+    "description": "Use ref code: HYPERLIQUIDINDO",
+    "is_visible": true
+  },
+  "hl_korea": {
+    "metadata_id": "hl_korea",
+    "full_name": "Hyperliquid Korea",
+    "short_name": "Korea",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidKR.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperliquid_KR"
+      },
+      {
+        "link_type": "telegram",
+        "link": "https://t.me/Hyperliquid_KR"
+      }
+    ],
+    "description": "Use ref codes: HLKR or ILHYUN",
+    "is_visible": true
+  },
+  "hl_names": {
+    "metadata_id": "hl_names",
+    "full_name": "HL Names",
+    "short_name": "HL Names",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HLNames.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/hlnames"
+      }
+    ],
+    "description": "Hold a HL Names NFT",
+    "is_visible": true
+  },
+  "hl_philippines": {
+    "metadata_id": "hl_philippines",
+    "full_name": "HL Philippines",
+    "short_name": "HL Phil",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperLiquidPH.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/HyperliquidPH"
+      }
+    ],
+    "description": "Use ref code: HYPERLIQUIDPH",
+    "is_visible": true
+  },
+  "hl_russia": {
+    "metadata_id": "hl_russia",
+    "full_name": "Hyperliquid Russia",
+    "short_name": "Russia",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperliquidRUS.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/chip1cr"
+      },
+      {
+        "link_type": "telegram",
+        "link": "https://t.me/hyperliquid_ru"
+      }
+    ],
+    "description": "Use ref code: HLQDRU",
+    "is_visible": true
+  },
+  "hl_spain": {
+    "metadata_id": "hl_spain",
+    "full_name": "Hyperliquid Spain",
+    "short_name": "HL Spain",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HyperLiquidos.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/hyperliquidos"
+      },
+      {
+        "link_type": "telegram",
+        "link": "https://t.me/hyperliquidos"
+      }
+    ],
+    "description": "Use ref code: HYPERLIQUIDOS",
+    "is_visible": true
+  },
+  "hwave_s1": {
+    "metadata_id": "hwave_s1",
+    "full_name": "Hyperwave S1 Club",
+    "short_name": "S1 Club",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/HWAVE_S1.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      }
+    ],
+    "description": "10% boost in S2",
+    "is_visible": true
+  },
+  "hwhype": {
+    "metadata_id": "hwhype",
+    "full_name": "hwHYPE",
+    "short_name": "hwHYPE",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/hwHYPE.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      },
+      {
+        "link_type": "website",
+        "link": " https://app.hyperwavefi.xyz/vaults/hwhype"
+      }
+    ],
+    "description": "Deposited in hwHYPE at launch",
+    "is_visible": true
+  },
+  "liquidity_land": {
+    "metadata_id": "liquidity_land",
+    "full_name": "Liquidity Land",
+    "short_name": "Liquidity",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/LiquidityLand.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Liquidity_Land"
+      },
+      {
+        "link_type": "website",
+        "link": "https://app.liquidity.land/project/Hyperwave"
+      }
+    ],
+    "description": "Activate on Liquidity Land",
+    "is_visible": true
+  },
+  "liquina": {
+    "metadata_id": "liquina",
+    "full_name": "LQnians",
+    "short_name": "LQnians",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/LQQUINA.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/LiquinaHL"
+      },
+      {
+        "link_type": "telegram",
+        "link": "https://t.me/LQnians"
+      }
+    ],
+    "description": "Hold 50BP on snapshot date",
+    "is_visible": true
+  },
+  "mrblock": {
+    "metadata_id": "mrblock",
+    "full_name": "Mr Block",
+    "short_name": "Mr Block",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/MrBlock.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/mrblocktw"
+      },
+      {
+        "link_type": "telegram",
+        "link": "https://t.me/mrblocktw"
+      }
+    ],
+    "description": "Use ref code: MRBLOCK",
+    "is_visible": true
+  },
+  "odd_otties": {
+    "metadata_id": "odd_otties",
+    "full_name": "Odd Otties",
+    "short_name": "Otties",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Otties.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/ottionhl"
+      }
+    ],
+    "description": "Hold an Odd Ottie NFT on snapshot date",
+    "is_visible": true
+  },
+  "pip": {
+    "metadata_id": "pip",
+    "full_name": "PiPs",
+    "short_name": "PiPs",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pip.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/piponhl"
+      }
+    ],
+    "description": "Hold a PiP NFT",
+    "is_visible": true
+  },
+  "purrtardio": {
+    "metadata_id": "purrtardio",
+    "full_name": "Purrtardio",
+    "short_name": "Purrtardio",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Purrtardio.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/purrto10"
+      }
+    ],
+    "description": "Hold a Purrtardio NFT",
+    "is_visible": true
+  },
+  "savethewhales": {
+    "metadata_id": "savethewhales",
+    "full_name": "SaveTheWhal3s",
+    "short_name": "Whal3s",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/SaveTheWhales.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/SaveTheWhal3s"
+      }
+    ],
+    "description": "Hold a SaveTheWhal3s NFT on snapshot date",
+    "is_visible": true
+  },
+  "turtle": {
+    "metadata_id": "turtle",
+    "full_name": "Turtle Club",
+    "short_name": "Turtle Club",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Turtle.svg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/turtledotxyz"
+      },
+      {
+        "link_type": "website",
+        "link": "https://app.turtle.xyz/campaigns"
+      }
+    ],
+    "description": "Joined Turtle Protocol on snapshot date",
+    "is_visible": true
+  },
+  "pepe": {
+    "metadata_id": "pepe",
+    "full_name": "Pepes on Hype",
+    "short_name": "Pepes",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pepes.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/pepeesonhype"
+      }
+    ],
+    "description": "Hold a Pepes on HYPE NFT on snapshot date",
+    "is_visible": true
+  },
+  "tinyhypercats": {
+    "metadata_id": "tinyhypercats",
+    "full_name": "Tiny Hypercats",
+    "short_name": "Hypercats",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/TinyHyperCats.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/tinyhypercats"
+      }
+    ],
+    "description": "Hold a Tiny Hypercat NFT on snapshot date",
+    "is_visible": true
+  },
+  "illiquid": {
+    "metadata_id": "illiquid",
+    "full_name": "Illiquid",
+    "short_name": "Illiquid",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Illiquid.jpg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Illiquid_nft"
+      }
+    ],
+    "description": "Hold an Illiquid NFT on snapshot date",
+    "is_visible": true
+  },
+  "pups": {
+    "metadata_id": "pups",
+    "full_name": "Pups",
+    "short_name": "Pups",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Pups.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Upheavalfi"
+      }
+    ],
+    "description": "Maintain 10,000 $PUP token balance on snapshot date",
+    "is_visible": true
+  },
+  "hypurr": {
+    "metadata_id": "hypurr",
+    "full_name": "Hypurr",
+    "short_name": "Hypurr",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/Hypurr.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperintern"
+      }
+    ],
+    "description": "Hold Hypurr NFT on snapshot date",
+    "is_visible": true
+  },
+  "boosted_otties": {
+    "metadata_id": "boosted_otties",
+    "full_name": "Hyperwave Otties",
+    "short_name": "Hyperwave Otties",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BoostedOttie.jpeg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      }
+    ],
+    "description": "Hold Hyperwave Otties NFT on snapshot date",
+    "is_visible": true
+  },
+  "boosted_pips": {
+    "metadata_id": "boosted_pips",
+    "full_name": "Hyperwave PiPs",
+    "short_name": "Hyperwave PiPs",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/BoostedPip.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      }
+    ],
+    "description": "Hold Hyperwave PiPs NFT on snapshot date",
+    "is_visible": true
+  },
+  "lbp": {
+    "metadata_id": "lbp",
+    "full_name": "LBP Participant",
+    "short_name": "LBP",
+    "logo_url": "https://raw.githubusercontent.com/balancer/brand-assets/455ad634ab7e592e5d7a1891950d56542bf0a93b/logo/circle-container/logo-balancer-black-512x512.svg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://app.hyperwavefi.xyz/portfolio"
+      }
+    ],
+    "description": "Participated in Hyperwave LBP",
+    "is_visible": true
+  },
+  "hwusd": {
+    "metadata_id": "hwusd",
+    "full_name": "hwUSD Holder",
+    "short_name": "hwUSD",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77.svg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      }
+    ],
+    "description": "Hold hwUSD on snapshot date",
+    "is_visible": true
+  },
+  "gwave": {
+    "metadata_id": "gwave",
+    "full_name": "gWAVE Depositors",
+    "short_name": "gWave",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x855cedd0e13be116f3eb17fa7b7b682999f55c4f.svg",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      }
+    ],
+    "description": "Deposit into gWAVE",
+    "is_visible": true
+  },
+  "vip": {
+    "metadata_id": "vip",
+    "full_name": "Hyperwave VIP",
+    "short_name": "VIP",
+    "logo_url": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/referral_community/hwHYPE.png",
+    "links": [
+      {
+        "link_type": "twitter",
+        "link": "https://x.com/Hyperwavefi"
+      }
+    ],
+    "description": "Hyperwave VIP members",
+    "is_visible": false
+  }
 }
