@@ -31,6 +31,14 @@
     "name": "Buy Pendle PT-vkHYPE",
     "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
   },
+  "pendlept-hbhype_999": {
+    "name": "Buy Pendle PT-hbHYPE",
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
+  "pendlept-liquidhype_999": {
+    "name": "Buy Pendle PT-liquidHYPE",
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
   "withdrawal_khype_999": {
     "name": "Kinetiq kHYPE Unstaking Queue",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
