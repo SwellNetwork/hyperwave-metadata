@@ -27,6 +27,14 @@
     "name": "Buy Pendle PT-kHYPE",
     "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
   },
+  "pendlept-hbhype_999": {
+    "name": "Buy Pendle PT-hbHYPE",
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
+  "pendlept-liquidhype_999": {
+    "name": "Buy Pendle PT-liquidHYPE",
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
   "pendlept_pt-vkhype_999": {
     "name": "Buy Pendle PT-vkHYPE",
     "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
@@ -138,5 +146,9 @@
   "aave_ausdt_1": {
     "name": "Supply USDT to Aave aUSDT on Ethereum",
     "icon": "https://app.aave.com/icons/tokens/aave.svg"
+  },
+  "hypurrfi_hyusdc_999": {
+    "name": "Supply USDC to HypurrFi hyUSDC",
+    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
   }
 }
