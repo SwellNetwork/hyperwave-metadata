@@ -829,6 +829,16 @@
     "link": "https://app.hyperwavefi.xyz/vaults/hwhype",
     "multiplier": 1
   },
+  "projectx_hwusd_usdt0_200_999:": {
+    "id": "projectx_hwusd_usdt0_200_999:",
+    "chainId": 999,
+    "name": "ProjectX",
+    "imageUrl": "https://i.ibb.co/Fj67M4v/image.png",
+    "category": "DEX",
+    "asset": "hwUSD/USDT0 0.02%",
+    "link": "https://www.prjx.com/deposit?tokenA=0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77&tokenB=0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb&fee=200",
+    "multiplier": 2
+  },
   "gwave_999:": {
     "id": "gwave_999:",
     "chainId": 999,
