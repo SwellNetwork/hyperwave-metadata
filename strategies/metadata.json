@@ -39,14 +39,6 @@
     "name": "Buy Pendle PT-vkHYPE",
     "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
   },
-  "pendlept-hbhype_999": {
-    "name": "Buy Pendle PT-hbHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
-  },
-  "pendlept-liquidhype_999": {
-    "name": "Buy Pendle PT-liquidHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
-  },
   "withdrawal_khype_999": {
     "name": "Kinetiq kHYPE Unstaking Queue",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
@@ -147,8 +139,8 @@
     "name": "Supply USDT to Aave aUSDT on Ethereum",
     "icon": "https://app.aave.com/icons/tokens/aave.svg"
   },
-  "hypurrfi_hyusdc_999": {
-    "name": "Supply USDC to HypurrFi hyUSDC",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+  "hyperevm_vkhype_999": {
+    "name": "Deposit in vkHYPE Vault",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
   }
 }
