@@ -142,5 +142,9 @@
   "hyperevm_vkhype_999": {
     "name": "Deposit in vkHYPE Vault",
     "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
+  },
+  "hyperevm_kinetiq_vkhype_withdrawals_999": {
+    "name": "Kinetiq vkHYPE Withdrawal Queue",
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
   }
 }
