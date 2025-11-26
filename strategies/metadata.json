@@ -154,5 +154,13 @@
   "pendlept_pt-khype_19mar2026_999": {
     "name": "Buy Pendle PT-kHYPE 19 Mar 2026",
     "icon" : "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
+  "behype_999": {
+    "name": "beHYPE",
+    "icon" : "https://www.ether.fi/app/logos/beHYPE.webp"
+  },
+  "behype_999_withdrawal": {
+    "name": "beHYPE withdrawal",
+    "icon" : "https://www.ether.fi/app/logos/beHYPE.webp"
   }
 }
