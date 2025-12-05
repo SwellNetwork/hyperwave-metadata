@@ -162,5 +162,9 @@
   "behype_999_withdrawal": {
     "name": "beHYPE withdrawal",
     "icon" : "https://www.ether.fi/app/logos/beHYPE.webp"
+  },
+  "hyperlend_khype_999": {
+    "name": "Supply kHYPE to HyperLend kHYPE",
+    "icon" : "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
   }
 }
