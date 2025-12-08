@@ -44,24 +44,24 @@
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xfd739d4e423301ce9385c1fb8850539d657c296d.svg"
   },
   "ethereum_usdt_1": {
-      "name": "Hold USDT on Ethereum",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
+    "name": "Hold USDT on Ethereum",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
   },
   "ethereum_usdc_1": {
-      "name": "Hold USDC on Ethereum",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
+    "name": "Hold USDC on Ethereum",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
   },
   "ethereum_usde_1": {
-      "name": "Hold USDe on Ethereum",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
+    "name": "Hold USDe on Ethereum",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
   },
   "base_usdc_8453": {
-      "name": "Hold USDC on Base",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"
+    "name": "Hold USDC on Base",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"
   },
   "base_usde_8453": {
-      "name": "Hold USDe on Base",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg"
+    "name": "Hold USDe on Base",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg"
   },
   "hyperlend_husdhl_999": {
     "name": "Supply USDHL to HyperLend hUSDHL",
@@ -108,28 +108,28 @@
     "icon": "https://app.aave.com/icons/tokens/aave.svg"
   },
   "morpho_mevcapusdc_1": {
-    "name" : "Supply USDC to MevCapital USDC Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+    "name": "Supply USDC to MevCapital USDC Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdc_1": {
-    "name" : "Supply USDC to SteakHouse USDC Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+    "name": "Supply USDC to SteakHouse USDC Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdt_1": {
-    "name" : "Supply USDT to SteakHouse USDT Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+    "name": "Supply USDT to SteakHouse USDT Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_smokehouseusdc_1": {
-    "name" : "Supply USDC to SmokeHouse USDC Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+    "name": "Supply USDC to SmokeHouse USDC Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_sparkusdc_8453": {
-    "name" : "Supply USDC to Spark USDC Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+    "name": "Supply USDC to Spark USDC Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_seamlessusdc_8453": {
-    "name" : "Supply USDC to Seamless USDC Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
+    "name": "Supply USDC to Seamless USDC Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "hypurrfi_hyusde_999": {
     "name": "Supply USDe to HypurrFi hyUSDe",
@@ -141,27 +141,27 @@
   },
   "hyperevm_vkhype_999": {
     "name": "Deposit in vkHYPE Vault",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
   },
   "hyperevm_kinetiq_vkhype_withdrawals_999": {
     "name": "Kinetiq vkHYPE Withdrawal Queue",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x9ba2edc44e0a4632eb4723e81d4142353e1bb160.svg"
   },
   "pendlept_pt-vkhype_19mar2026_999": {
     "name": "Buy Pendle PT-vkHYPE 19 Mar 2026",
-    "icon" : "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
   },
   "pendlept_pt-khype_19mar2026_999": {
     "name": "Buy Pendle PT-kHYPE 19 Mar 2026",
-    "icon" : "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
   },
   "behype_999": {
     "name": "beHYPE",
-    "icon" : "https://www.ether.fi/app/logos/beHYPE.webp"
+    "icon": "https://www.ether.fi/app/logos/beHYPE.webp"
   },
   "behype_999_withdrawal": {
-    "name": "beHYPE withdrawal",
-    "icon" : "https://www.ether.fi/app/logos/beHYPE.webp"
+    "name": "Hyperbeat beHYPE Withdrawal Queue",
+    "icon": "https://www.ether.fi/app/logos/beHYPE.webp"
   },
   "hyperlend_khype_999": {
     "name": "Supply kHYPE to HyperLend kHYPE",
