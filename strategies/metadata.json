@@ -170,5 +170,9 @@
   "pendlept_pt-sthype_999": {
     "name": "Buy Pendle PT-stHYPE",
     "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+  },
+  "borrow_hyperlend_whype_999": {
+    "name": "Borrowing HYPE on Hyperlend",
+        "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
   }
 }
