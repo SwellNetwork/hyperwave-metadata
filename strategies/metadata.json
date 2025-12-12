@@ -174,5 +174,17 @@
   "borrow_hyperlend_whype_999": {
     "name": "Borrowing HYPE on Hyperlend",
         "icon": "https://pbs.twimg.com/profile_images/1808617090602901504/VsTtyaqZ_400x400.jpg"
+  },
+  "hyperevm_usdt_1": {
+      "name": "Hold USDT on HyperEVM",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
+  },
+  "hyperevm_usdc_1": {
+      "name": "Hold USDC on HyperEVM",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
+  },
+  "hyperevm_usde_1": {
+      "name": "Hold USDe on HyperEVM",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
   }
 }
