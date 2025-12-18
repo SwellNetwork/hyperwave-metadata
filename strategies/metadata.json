@@ -186,5 +186,9 @@
   "hyperevm_usde_999": {
       "name": "Hold USDe on HyperEVM",
       "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
+  },
+  "hyperevm_hbhype_999": {
+      "name": "Deposit in hbHYPE Vault",
+      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg"
   }
 }
