@@ -1,7 +1,7 @@
 {
   "hyperlend_hwhype_999": {
     "name": "Supply HYPE to HyperLend hHYPE",
-    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hypurrfi_hywhype_999": {
     "name": "Supply HYPE to HypurrFi hyHYPE",
@@ -65,19 +65,19 @@
   },
   "hyperlend_husdhl_999": {
     "name": "Supply USDHL to HyperLend hUSDHL",
-    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperlend_husdt0_999": {
     "name": "Supply USDT0 to HyperLend hUSDT0",
-    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperlend_husde_999": {
     "name": "Supply USDe to HyperLend hUSDe",
-    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperlend_husdc_999": {
     "name": "Supply USDC to HyperLend hUSDC",
-    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hypurrfi_hyusdhl_999": {
     "name": "Supply USDHL to HypurrFi hyUSDHL",
@@ -165,7 +165,7 @@
   },
   "hyperlend_khype_999": {
     "name": "Supply kHYPE to HyperLend kHYPE",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "pendlept_pt-sthype_999": {
     "name": "Buy Pendle PT-stHYPE",
@@ -173,7 +173,7 @@
   },
   "borrow_hyperlend_whype_999": {
     "name": "Borrowing HYPE on Hyperlend",
-        "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/dev/protocols/hyperlend.svg"
+        "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperevm_usdt0_999": {
       "name": "Hold USDT on HyperEVM",
