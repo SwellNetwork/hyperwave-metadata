@@ -848,6 +848,155 @@
     "asset": "Stake HWAVE",
     "link": "https://app.hyperwavefi.xyz/assets/gwave",
     "multiplier": 0
+  },
+  "pendlelp_hwhlp_20260626_1:LP": {
+    "id": "pendlelp_hwhlp_20260626_1:LP",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "LP on Pendle hwhLP 20260626",
+    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20260626_1:EQB": {
+    "id": "pendlelp_hwhlp_20260626_1:EQB",
+    "chainId": 1,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria hwhLP 20260626",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20260626_1:PNP": {
+    "id": "pendlelp_hwhlp_20260626_1:PNP",
+    "chainId": 1,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie hwhLP 20260626",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "multiplier": 4
+  },
+  "pendleyt_hwhlp_20260626_1:": {
+    "id": "pendleyt_hwhlp_20260626_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHLP 20260626",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlept_hwhlp_20260626_1:": {
+    "id": "pendlept_hwhlp_20260626_1:",
+    "chainId": 1,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHLP 20260626",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "multiplier": 0
+  },
+  "pendlelp_hwhlp_20260626_999:LP": {
+    "id": "pendlelp_hwhlp_20260626_999:LP",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "LP on Pendle hwhLP 20260626",
+    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20260626_999:EQB": {
+    "id": "pendlelp_hwhlp_20260626_999:EQB",
+    "chainId": 999,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria hwhLP 20260626",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhlp_20260626_999:PNP": {
+    "id": "pendlelp_hwhlp_20260626_999:PNP",
+    "chainId": 999,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie hwhLP 20260626",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "multiplier": 4
+  },
+  "pendleyt_hwhlp_20260626_999:": {
+    "id": "pendleyt_hwhlp_20260626_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHLP 20260626",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlept_hwhlp_20260626_999:": {
+    "id": "pendlept_hwhlp_20260626_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHLP 20260626",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "multiplier": 0
+  },
+  "pendlelp_hwhype_20260626_999:LP": {
+    "id": "pendlelp_hwhype_20260626_999:LP",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "LP on Pendle hwHYPE 20260626",
+    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlelp_hwhype_20260626_999:EQB": {
+    "id": "pendlelp_hwhype_20260626_999:EQB",
+    "chainId": 999,
+    "name": "Equilibria",
+    "imageUrl": "https://cloud-prod.equilibria.fi/assets/logo-eqb.2a8f9b93.svg",
+    "category": "Yield",
+    "asset": "LP on Equilibria hwHYPE 20260626",
+    "link": "https://equilibria.fi/stake",
+    "multiplier": 4
+  },
+  "pendlelp_hwhype_20260626_999:PNP": {
+    "id": "pendlelp_hwhype_20260626_999:PNP",
+    "chainId": 999,
+    "name": "Penpie",
+    "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
+    "category": "Yield",
+    "asset": "LP on Penpie hwHYPE 20260626",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "multiplier": 4
+  },
+  "pendleyt_hwhype_20260626_999:": {
+    "id": "pendleyt_hwhype_20260626_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold YT-hwHYPE 20260626",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "multiplier": 4
+  },
+  "pendlept_hwhype_20260626_999:": {
+    "id": "pendlept_hwhype_20260626_999:",
+    "chainId": 999,
+    "name": "Pendle",
+    "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
+    "category": "Yield",
+    "asset": "Hold PT-hwHYPE 20260626",
+    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "multiplier": 0
   }
 }
-
