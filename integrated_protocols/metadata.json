@@ -856,7 +856,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "LP on Pendle hwhLP 20260626",
-    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "link": "https://app.pendle.finance/trade/pools/0x4B4f0d16bFb4dDf24748A0e058d29552dB985fd8/zap/in?chain=ethereum",
     "multiplier": 4
   },
   "pendlelp_hwhlp_20260626_1:EQB": {
@@ -876,7 +876,7 @@
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
     "asset": "LP on Penpie hwhLP 20260626",
-    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x4B4f0d16bFb4dDf24748A0e058d29552dB985fd8",
     "multiplier": 4
   },
   "pendleyt_hwhlp_20260626_1:": {
@@ -886,7 +886,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "Hold YT-hwHLP 20260626",
-    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "link": "https://app.pendle.finance/trade/markets/0x4B4f0d16bFb4dDf24748A0e058d29552dB985fd8/swap?view=yt&chain=ethereum",
     "multiplier": 4
   },
   "pendlept_hwhlp_20260626_1:": {
@@ -896,7 +896,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "Hold PT-hwHLP 20260626",
-    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "link": "https://app.pendle.finance/trade/markets/0x4B4f0d16bFb4dDf24748A0e058d29552dB985fd8/swap?view=pt&chain=ethereum",
     "multiplier": 0
   },
   "pendlelp_hwhlp_20260626_999:LP": {
@@ -906,7 +906,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "LP on Pendle hwhLP 20260626",
-    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "link": "https://app.pendle.finance/trade/pools/0xB339FaD3c2A53D286c80F3AC848DB80EDCA473D0/zap/in?chain=hyperevm",
     "multiplier": 4
   },
   "pendlelp_hwhlp_20260626_999:EQB": {
@@ -926,7 +926,7 @@
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
     "asset": "LP on Penpie hwhLP 20260626",
-    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "link": "https://www.pendle.magpiexyz.io/stake/0xB339FaD3c2A53D286c80F3AC848DB80EDCA473D0",
     "multiplier": 4
   },
   "pendleyt_hwhlp_20260626_999:": {
@@ -936,7 +936,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "Hold YT-hwHLP 20260626",
-    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "link": "https://app.pendle.finance/trade/markets/0xB339FaD3c2A53D286c80F3AC848DB80EDCA473D0/swap?view=yt&chain=hyperevm",
     "multiplier": 4
   },
   "pendlept_hwhlp_20260626_999:": {
@@ -946,7 +946,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "Hold PT-hwHLP 20260626",
-    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "link": "https://app.pendle.finance/trade/markets/0xB339FaD3c2A53D286c80F3AC848DB80EDCA473D0/swap?view=pt&chain=hyperevm",
     "multiplier": 0
   },
   "pendlelp_hwhype_20260626_999:LP": {
@@ -956,7 +956,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "LP on Pendle hwHYPE 20260626",
-    "link": "https://app.pendle.finance/trade/pools/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/zap/in?chain=ethereum",
+    "link": "https://app.pendle.finance/trade/pools/0x689c1e47619d03B4E86C18494f95E6E37a881dE3/zap/in?chain=hyperevm",
     "multiplier": 4
   },
   "pendlelp_hwhype_20260626_999:EQB": {
@@ -976,7 +976,7 @@
     "imageUrl": "https://i.ibb.co/1fpbcPSn/pnp-1.png",
     "category": "Yield",
     "asset": "LP on Penpie hwHYPE 20260626",
-    "link": "https://www.pendle.magpiexyz.io/stake/0x71d4a6bAc0FE7210309b6A3807cf2BaD13d7C1E1",
+    "link": "https://www.pendle.magpiexyz.io/stake/0x689c1e47619d03B4E86C18494f95E6E37a881dE3",
     "multiplier": 4
   },
   "pendleyt_hwhype_20260626_999:": {
@@ -986,7 +986,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "Hold YT-hwHYPE 20260626",
-    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=yt&chain=ethereum",
+    "link": "https://app.pendle.finance/trade/markets/0x689c1e47619d03B4E86C18494f95E6E37a881dE3/swap?view=yt&chain=hyperevm",
     "multiplier": 4
   },
   "pendlept_hwhype_20260626_999:": {
@@ -996,7 +996,7 @@
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
     "asset": "Hold PT-hwHYPE 20260626",
-    "link": "https://app.pendle.finance/trade/markets/0x71d4a6bac0fe7210309b6a3807cf2bad13d7c1e1/swap?view=pt&chain=ethereum",
+    "link": "https://app.pendle.finance/trade/markets/0x689c1e47619d03B4E86C18494f95E6E37a881dE3/swap?view=pt&chain=hyperevm",
     "multiplier": 0
   }
 }
