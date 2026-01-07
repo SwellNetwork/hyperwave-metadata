@@ -855,7 +855,7 @@
     "name": "Pendle",
     "imageUrl": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png",
     "category": "Yield",
-    "asset": "LP on Pendle hwhLP 20260626",
+    "asset": "LP on Pendle hwHLP 20260626",
     "link": "https://app.pendle.finance/trade/pools/0x4B4f0d16bFb4dDf24748A0e058d29552dB985fd8/zap/in?chain=ethereum",
     "multiplier": 4
   },
