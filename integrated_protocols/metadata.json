@@ -998,5 +998,15 @@
     "asset": "Hold PT-hwHYPE 20260626",
     "link": "https://app.pendle.finance/trade/markets/0x689c1e47619d03B4E86C18494f95E6E37a881dE3/swap?view=pt&chain=hyperevm",
     "multiplier": 0
+  },
+  "curve_whype_hwype_999:LP": {
+    "id": "curve_whype_hwype_999:LP",
+    "chainId": 999,
+    "name": "Curve",
+    "imageUrl": "https://resources.curve.finance/images/branding/CRV-200x200-transparent.png",
+    "category": "DEX",
+    "asset": "LP on Curve wHYPE/hwHYPE",
+    "link": "https://www.curve.finance/dex/hyperliquid/pools/factory-stable-ng-36/deposit",
+    "multiplier": 2
   }
 }
