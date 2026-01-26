@@ -190,5 +190,13 @@
   "hyperevm_hbhype_999": {
       "name": "Deposit in hbHYPE Vault",
       "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg"
+  },
+  "sthype_999_withdrawal": {
+    "name": "stHYPE Withdrawal Queue",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg"
+  },
+  "hyperevm_sthype_999": {
+    "name": "Hold stHYPE on HyperEVM",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg"
   }
 }
