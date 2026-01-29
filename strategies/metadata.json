@@ -198,5 +198,13 @@
   "hyperevm_sthype_999": {
     "name": "Hold stHYPE on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1.svg"
+  },
+  "hypurrfi_khype_999": {
+    "name": "Supply kHYPE to HypurrFi",
+    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+  },
+  "borrow_hypurrfi_whype_999": {
+    "name": "Borrow wHYPE on HypurrFi",
+    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
   }
 }
