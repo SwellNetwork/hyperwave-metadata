@@ -1008,5 +1008,15 @@
     "asset": "LP on Curve wHYPE/hwHYPE",
     "link": "https://www.curve.finance/dex/hyperliquid/pools/factory-stable-ng-36/deposit",
     "multiplier": 2
+  },
+  "mewler_col_hwhype_999:": {
+    "id": "mewler_col_hwhype_999:",
+    "chainId": 999,
+    "name": "HypurrFi Mewler",
+    "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
+    "category": "Lending",
+    "asset": "Deposit hwHYPE as Collateral",
+    "link": "https://app.hypurr.fi/markets/elend/999/0xBb7DC37dbc108d40BcdD60403EF7bFDD6489071E?from=lend#more",
+    "multiplier": 1
   }
 }
