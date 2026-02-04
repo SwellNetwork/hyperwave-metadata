@@ -101,11 +101,11 @@
   },
   "aave_ausdc_1": {
     "name": "Supply USDC to Aave aUSDC on Ethereum",
-    "icon": "https://app.aave.com/icons/tokens/aave.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "aave_ausdc_8453": {
     "name": "Supply USDC to Aave aUSDC on Base",
-    "icon": "https://app.aave.com/icons/tokens/aave.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "morpho_mevcapusdc_1": {
     "name": "Supply USDC to MevCapital USDC Vault",
@@ -137,7 +137,7 @@
   },
   "aave_ausdt_1": {
     "name": "Supply USDT to Aave aUSDT on Ethereum",
-    "icon": "https://app.aave.com/icons/tokens/aave.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "hyperevm_vkhype_999": {
     "name": "Deposit in vkHYPE Vault",
@@ -157,11 +157,11 @@
   },
   "behype_999": {
     "name": "beHYPE",
-    "icon": "https://www.ether.fi/app/logos/beHYPE.webp"
+    "icon": "f"
   },
   "behype_999_withdrawal": {
     "name": "Hyperbeat beHYPE Withdrawal Queue",
-    "icon": "https://www.ether.fi/app/logos/beHYPE.webp"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/behype.png"
   },
   "hyperlend_khype_999": {
     "name": "Supply kHYPE to HyperLend kHYPE",
