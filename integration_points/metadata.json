@@ -8,13 +8,13 @@
   "felix": {
     "id": "felix",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/felix.svg",
-    "protocol_icon": "https://4061782532-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2Fn5iCQOMvurUghop1f7qS%2Fsites%2Fsite_uyj4H%2Ficon%2FlQQRIQ9aUoXyrryTOaya%2Fmx8MTMca_400x400.jpg?alt=media&token=0c3a7545-c5c2-4623-9311-b11288dce146",
+    "protocol_icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png",
     "text": "Felix Points"
   },
   "hypurrfi": {
     "id": "hypurrfi",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/integration_points/logos/hypurrfi.svg",
-    "protocol_icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg",
+    "protocol_icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "text": "HypurrFi Points"
   }
 }

@@ -5,11 +5,11 @@
   },
   "hypurrfi_hywhype_999": {
     "name": "Supply HYPE to HypurrFi hyHYPE",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "hypurrfi_hyusdc_999": {
     "name": "Supply USDC to HypurrFi hyUSDC",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "hyperliquid_khype_999": {
     "name": "Hold Kinetiq kHYPE",
@@ -21,23 +21,23 @@
   },
   "felix_fehype_999": {
     "name": "Supply HYPE to Felix feHYPE",
-    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "pendlept_pt-khype_999": {
     "name": "Buy Pendle PT-kHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "pendlept-hbhype_999": {
     "name": "Buy Pendle PT-hbHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "pendlept-liquidhype_999": {
     "name": "Buy Pendle PT-liquidHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "pendlept_pt-vkhype_999": {
     "name": "Buy Pendle PT-vkHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "withdrawal_khype_999": {
     "name": "Kinetiq kHYPE Unstaking Queue",
@@ -81,23 +81,23 @@
   },
   "hypurrfi_hyusdhl_999": {
     "name": "Supply USDHL to HypurrFi hyUSDHL",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "hypurrfi_hyusdt0_999": {
     "name": "Supply USDT0 to HypurrFi hyUSDT0",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "felix_feusdt0_999": {
     "name": "Supply USDT0 to Felix feUSDT0",
-    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "felix_feusde_999": {
     "name": "Supply USDe to Felix feUSDe",
-    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "felix_feusdc_999": {
     "name": "Supply USDC to Felix feUSDC",
-    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "aave_ausdc_1": {
     "name": "Supply USDC to Aave aUSDC on Ethereum",
@@ -133,7 +133,7 @@
   },
   "hypurrfi_hyusde_999": {
     "name": "Supply USDe to HypurrFi hyUSDe",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "aave_ausdt_1": {
     "name": "Supply USDT to Aave aUSDT on Ethereum",
@@ -149,11 +149,11 @@
   },
   "pendlept_pt-vkhype_19mar2026_999": {
     "name": "Buy Pendle PT-vkHYPE 19 Mar 2026",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "pendlept_pt-khype_19mar2026_999": {
     "name": "Buy Pendle PT-kHYPE 19 Mar 2026",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "behype_999": {
     "name": "beHYPE",
@@ -169,7 +169,7 @@
   },
   "pendlept_pt-sthype_999": {
     "name": "Buy Pendle PT-stHYPE",
-    "icon": "https://app.pendle.finance/assets/pendle-logo-dark-k7USIy1I.png"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "borrow_hyperlend_whype_999": {
     "name": "Borrowing HYPE on Hyperlend",
@@ -201,18 +201,18 @@
   },
   "hypurrfi_khype_999": {
     "name": "Supply kHYPE to HypurrFi",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "borrow_hypurrfi_whype_999": {
     "name": "Borrow wHYPE on HypurrFi",
-    "icon": "https://app.hypurr.fi/_next/static/media/hypurr-paw.d5a76d5a.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "felix_supply_khype_999": {
     "name": "Supply kHYPE to Felix",
-    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "felix_borrow_whype_999": {
     "name": "Borrow wHYPE on Felix",
-    "icon": "https://www.usefelix.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffelix.db823ff1.webp&w=64&q=100"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   }
 }
