@@ -214,5 +214,13 @@
   "felix_borrow_whype_999": {
     "name": "Borrow wHYPE on Felix",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
+  },
+  "yearn_unlocked_yv_usdc_ethereum": {
+    "name": "Deposit USDC on Yearn unlocked yvUSD vault",
+    "icon: "",
+  },
+  "yearn_locked_yv_usdc_ethereum": {
+    "name": "Deposit USDC on Yearn locked yvUSD vault",
+    "icon: "",
   }
 }
