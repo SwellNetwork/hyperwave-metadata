@@ -217,10 +217,10 @@
   },
   "yearn_unlocked_yv_usdc_ethereum": {
     "name": "Deposit USDC on Yearn unlocked yvUSD vault",
-    "icon: "",
+    "icon: ""
   },
   "yearn_locked_yv_usdc_ethereum": {
     "name": "Deposit USDC on Yearn locked yvUSD vault",
-    "icon: "",
+    "icon: ""
   }
 }
