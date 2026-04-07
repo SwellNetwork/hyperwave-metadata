@@ -423,7 +423,7 @@
     "id": "bal_usdt0_hwhlp_999:LP",
     "chainId": 999,
     "name": "Balancer",
-    "imageUrl": "https://raw.githubusercontent.com/balancer/brand-assets/refs/heads/main/logo/no-container/logo-balancer-white.svg",
+    "imageUrl": "https://raw.githubusercontent.com/balancer/brand-assets/refs/heads/main/logo/no-container/logo-balancer-black.svg",
     "category": "DEX",
     "asset": "USDT0/hwHLP",
     "link": "https://balancer.fi/pools/hyperevm/v3/0x768e4f8219095d714bc7dcfd60a5ece67d32faf9",
