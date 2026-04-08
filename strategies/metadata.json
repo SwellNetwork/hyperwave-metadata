@@ -155,6 +155,10 @@
     "name": "Buy Pendle PT-kHYPE 19 Mar 2026",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
+  "pendlept_pt-sthype_27aug2026_999": {
+    "name": "Buy Pendle PT-stHYPE 27 Aug 2026",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
+  },
   "behype_999": {
     "name": "beHYPE",
     "icon": "f"
