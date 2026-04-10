@@ -64,79 +64,79 @@
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.svg"
   },
   "hyperlend_husdhl_999": {
-    "name": "Supply USDHL to HyperLend hUSDHL",
+    "name": "Supply USDHL to HyperLend on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperlend_husdt0_999": {
-    "name": "Supply USDT0 to HyperLend hUSDT0",
+    "name": "Supply USDT0 to HyperLend on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperlend_husde_999": {
-    "name": "Supply USDe to HyperLend hUSDe",
+    "name": "Supply USDe to HyperLend on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperlend_husdc_999": {
-    "name": "Supply USDC to HyperLend hUSDC",
+    "name": "Supply USDC to HyperLend on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hypurrfi_hyusdhl_999": {
-    "name": "Supply USDHL to HypurrFi hyUSDHL",
+    "name": "Supply USDHL to HypurrFi on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "hypurrfi_hyusdt0_999": {
-    "name": "Supply USDT0 to HypurrFi hyUSDT0",
+    "name": "Supply USDT0 to HypurrFi on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "felix_feusdt0_999": {
-    "name": "Supply USDT0 to Felix feUSDT0",
+    "name": "Supply USDT0 to Felix on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "felix_feusde_999": {
-    "name": "Supply USDe to Felix feUSDe",
+    "name": "Supply USDe to Felix on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "felix_feusdc_999": {
-    "name": "Supply USDC to Felix feUSDC",
+    "name": "Supply USDC to Felix on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/felix.png"
   },
   "aave_ausdc_1": {
-    "name": "Supply USDC to Aave aUSDC on Ethereum",
+    "name": "Supply USDC to Aave on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "aave_ausdc_8453": {
-    "name": "Supply USDC to Aave aUSDC on Base",
+    "name": "Supply USDC to Aave on Base",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "morpho_mevcapusdc_1": {
-    "name": "Supply USDC to MevCapital USDC Vault",
+    "name": "Supply USDC to Morpho MevCapital Vault",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdc_1": {
-    "name": "Supply USDC to SteakHouse USDC Vault",
+    "name": "Supply USDC to Morpho SteakHouse Vault",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdt_1": {
-    "name": "Supply USDT to SteakHouse USDT Vault",
+    "name": "Supply USDT to Morpho SteakHouse Vault",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_smokehouseusdc_1": {
-    "name": "Supply USDC to SmokeHouse USDC Vault",
+    "name": "Supply USDC to Morpho SmokeHouse Vault",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_sparkusdc_8453": {
-    "name": "Supply USDC to Spark USDC Vault",
+    "name": "Supply USDC to Morpho Spark Vault",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_seamlessusdc_8453": {
-    "name": "Supply USDC to Seamless USDC Vault",
+    "name": "Supply USDC to Morpho Seamless Vault",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "hypurrfi_hyusde_999": {
-    "name": "Supply USDe to HypurrFi hyUSDe",
+    "name": "Supply USDe to HypurrFi on HyperEVM",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg"
   },
   "aave_ausdt_1": {
-    "name": "Supply USDT to Aave aUSDT on Ethereum",
+    "name": "Supply USDT to Aave on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "hyperevm_vkhype_999": {
@@ -169,31 +169,31 @@
   },
   "hyperlend_khype_999": {
     "name": "Supply kHYPE to HyperLend kHYPE",
-    "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "pendlept_pt-sthype_999": {
     "name": "Buy Pendle PT-stHYPE",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/pendle.png"
   },
   "borrow_hyperlend_whype_999": {
-    "name": "Borrowing HYPE on Hyperlend",
-        "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
+    "name": "Borrow HYPE on Hyperlend",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/protocols/hyperlend.svg"
   },
   "hyperevm_usdt0_999": {
-      "name": "Hold USDT on HyperEVM",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
+    "name": "Hold USDT on HyperEVM",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xdac17f958d2ee523a2206206994597c13d831ec7.svg"
   },
   "hyperevm_usdc_999": {
-      "name": "Hold USDC on HyperEVM",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
+    "name": "Hold USDC on HyperEVM",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.svg"
   },
   "hyperevm_usde_999": {
-      "name": "Hold USDe on HyperEVM",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
+    "name": "Hold USDe on HyperEVM",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
   },
   "hyperevm_hbhype_999": {
-      "name": "Deposit in hbHYPE Vault",
-      "icon" : "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg"
+    "name": "Deposit in hbHYPE Vault",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/999/0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb.svg"
   },
   "sthype_999_withdrawal": {
     "name": "stHYPE Withdrawal Queue",
