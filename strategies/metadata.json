@@ -108,27 +108,27 @@
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "morpho_mevcapusdc_1": {
-    "name": "Supply USDC to Morpho MevCapital Vault",
+    "name": "Supply USDC to Morpho MevCapital Vault on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdc_1": {
-    "name": "Supply USDC to Morpho SteakHouse Vault",
+    "name": "Supply USDC to Morpho SteakHouse Vault on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_steakhouseusdt_1": {
-    "name": "Supply USDT to Morpho SteakHouse Vault",
+    "name": "Supply USDT to Morpho SteakHouse Vault on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_smokehouseusdc_1": {
-    "name": "Supply USDC to Morpho SmokeHouse Vault",
+    "name": "Supply USDC to Morpho SmokeHouse Vault on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_sparkusdc_8453": {
-    "name": "Supply USDC to Morpho Spark Vault",
+    "name": "Supply USDC to Morpho Spark Vault on Base",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "morpho_seamlessusdc_8453": {
-    "name": "Supply USDC to Morpho Seamless Vault",
+    "name": "Supply USDC to Morpho Seamless Vault on Base",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842.svg"
   },
   "hypurrfi_hyusde_999": {
