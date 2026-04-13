@@ -55,9 +55,17 @@
     "name": "Hold USDe on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
   },
+  "ethereum_usec_1": {
+    "name": "Hold USDe on Ethereum",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/1/0x4c9edd5852cd905f086c759e8383e09bff1e68b3.svg"
+  },
   "base_usdc_8453": {
     "name": "Hold USDC on Base",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.svg"
+  },
+  "base_usdt_8453": {
+    "name": "Hold USDT on Base",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/tokens/8453/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2.svg"
   },
   "base_usde_8453": {
     "name": "Hold USDe on Base",
@@ -101,6 +109,10 @@
   },
   "aave_ausdc_1": {
     "name": "Supply USDC to Aave on Ethereum",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
+  },
+  "aave_ausde_1": {
+    "name": "Supply USDe to Aave on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
   "aave_ausdc_8453": {
