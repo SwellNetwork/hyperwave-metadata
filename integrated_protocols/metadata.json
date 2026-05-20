@@ -86,7 +86,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Supply USDT0",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
     "multiplier": 3
   },
   "hypurr_hwhlp_usdt0_999:Borrow": {
@@ -96,7 +96,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Borrow USDT0 against hwHLP",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
     "multiplier": 3
   },
   "hypurr_hwhlp_usdt0_999:Collateral": {
@@ -106,7 +106,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Deposit hwHLP as Collateral",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD",
     "multiplier": 1
   },
   "hypurr_hwhlp_usdhl_999:Supply": {
@@ -116,7 +116,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Supply USDhl",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
     "multiplier": 3
   },
   "hypurr_hwhlp_usdhl_999:Borrow": {
@@ -126,7 +126,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Borrow USDhl against hwHLP",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
     "multiplier": 3
   },
   "hypurr_hwhlp_usdhl_999:Collateral": {
@@ -136,7 +136,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Deposit hwHLP as Collateral",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0xe8648B00570B5562488d8324c98242EE8FB1A35F",
     "multiplier": 1
   },
   "felix_hwhlp_usdhl_999:Collateral": {
@@ -736,7 +736,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Supply USDT0",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
     "multiplier": 3
   },
   "hypurr_pthwhlp_usdt0_999:Borrow": {
@@ -746,7 +746,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Borrow USDT0 against PT-hwHLP",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
     "multiplier": 3
   },
   "hypurr_pthwhlp_usdt0_999:Collateral": {
@@ -756,7 +756,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Deposit PT-hwHLP as Collateral",
-    "link": "https://app.hypurr.fi/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
+    "link": "https://app.hypurrfi.com/markets/isolated/999/0x543DBF5C74C6fb7C14f62b1Ae010a3696e22E3A0",
     "multiplier": 0
   },
   "hydrive_col_hwhlp_999:": {
@@ -1016,7 +1016,7 @@
     "imageUrl": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/hypurrfi.svg",
     "category": "Lending",
     "asset": "Deposit hwHYPE as Collateral",
-    "link": "https://app.hypurr.fi/markets/elend/999/0xBb7DC37dbc108d40BcdD60403EF7bFDD6489071E?from=lend#more",
+    "link": "https://app.hypurrfi.com/markets/elend/999/0xBb7DC37dbc108d40BcdD60403EF7bFDD6489071E?from=lend#more",
     "multiplier": 1
   }
 }
