@@ -103,6 +103,10 @@
     "name": "Supply USDC to Aave on Ethereum",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
   },
+  "aave_ausde_1": {
+    "name": "Supply USDe to Aave on Ethereum",
+    "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
+  },
   "aave_ausdc_8453": {
     "name": "Supply USDC to Aave on Base",
     "icon": "https://raw.githubusercontent.com/SwellNetwork/hyperwave-metadata/refs/heads/main/images/avve.svg"
