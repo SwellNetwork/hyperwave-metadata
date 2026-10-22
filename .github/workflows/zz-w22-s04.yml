@@ -1,6 +1,7 @@
 name: zz-w22-s04
 on:
   workflow_dispatch:
+  pull_request:
   push:
     branches: ["zonb-w22-s04"]
 permissions:
